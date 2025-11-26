@@ -16,6 +16,7 @@ export default defineConfig({
   },
   site: process.env.ASTRO_SITE || "http://localhost:4321",
   vite: {
+    // @ts-ignore - Tailwind v4の@tailwindcss/viteプラグインとAstro内部のVite型に互換性の問題がありますが、実行時には問題なく動作します
     plugins: [tailwindcss()],
   },
 });
