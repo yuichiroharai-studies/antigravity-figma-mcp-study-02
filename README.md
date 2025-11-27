@@ -78,3 +78,18 @@ https://yuichiroharai-studies.github.io/antigravity-figma-mcp-study-02/0.1.0/
   - Figma MCPから取得したデータをローカルに保存したおかげで早くなっている
 - 初校のモックアップとしてはそこまで悪くない出来栄え
 - 画像やアイコンは想定通りにプレースホルダーが使われていた
+
+### v0.1.1
+
+https://yuichiroharai-studies.github.io/antigravity-figma-mcp-study-02/0.1.1/
+
+#### 作業内容
+
+- 文字校正の流れを考える
+  - Figma上でセクションごとにエクスポートしたスクリーンショットを保存
+  - Gemini APIを使い、スクリーンショットからテキストを抽出する
+  - 抽出したテキストと実際のコードのテキストを比較させる
+  - 費用的にも無料枠で問題なさそう
+- 文字校正の結果
+  - 今回は、テキスト抽出側で`Whitepace`を`Whitespace`に誤認するミスがあったが、それ以外はすべて一致
+  - 誤植や文法ミス、`Evernote`という関係ない文字列があることなども指摘してくれた
