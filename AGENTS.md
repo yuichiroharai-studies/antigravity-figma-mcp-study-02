@@ -16,4 +16,6 @@ Figmaデザインをコーディングする際は必ず `docs/FIGMA.md` を参�
 - `src/pages/`: Astroページ
 - `src/styles/`: 共通スタイル
 - `docs/`: ドキュメント
+- `docs/figma/`: Figma MCPから取得したメタデータ/デザインコンテキスト/スクリーンショットなど
+- `docs/plans/`: 計画書
 ```
