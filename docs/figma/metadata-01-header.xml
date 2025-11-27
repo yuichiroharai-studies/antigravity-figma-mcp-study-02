@@ -1,0 +1,39 @@
+<frame id="547:8800" name="Header" x="0" y="0" width="1440" height="92">
+  <frame id="547:8801" name="Logo" x="32" y="29" width="191" height="34">
+    <frame id="547:8802" name="Logo" x="0" y="0" width="191" height="34">
+      <frame id="553:10305" name="Placeholder" x="0" y="3" width="37" height="29" />
+      <text id="547:8809" name="whitepace" x="47" y="0" width="144" height="34" />
+    </frame>
+  </frame>
+  <frame id="547:8810" name="Frame 375" x="479.5" y="16" width="928.5" height="60">
+    <frame id="547:8811" name="Nav-menu" x="0" y="18.5" width="551.5" height="23">
+      <frame id="547:8812" name="Products" x="0" y="0" width="97" height="23">
+        <text id="547:8813" name="Products" x="0" y="0" width="78" height="23" />
+        <vector id="547:8814" name="Vector" x="88" y="9.5" width="9" height="4" />
+      </frame>
+      <frame id="547:8815" name="Solutios" x="129" y="0" width="98" height="23">
+        <text id="547:8816" name="Solutions" x="0" y="0" width="79" height="23" />
+        <vector id="547:8817" name="Vector" x="89" y="9.5" width="9" height="4" />
+      </frame>
+      <frame id="547:8818" name="Resources" x="259" y="0" width="108" height="23">
+        <text id="547:8819" name="Resources" x="0" y="0" width="89" height="23" />
+        <vector id="547:8820" name="Vector" x="99" y="9.5" width="9" height="4" />
+      </frame>
+      <frame id="547:8821" name="Pricing" x="399" y="0" width="77" height="23">
+        <text id="547:8822" name="Pricing" x="0" y="0" width="58" height="23" />
+        <vector id="547:8823" name="Vector" x="68" y="9.5" width="9" height="4" />
+      </frame>
+    </frame>
+    <frame id="547:8824" name="Btn" x="551.5" y="0" width="377" height="60">
+      <frame id="547:8825" name="Btn-login" x="0" y="0" width="126" height="60">
+        <text id="547:8826" name="Login" x="40" y="18.5" width="46" height="23" />
+      </frame>
+      <frame id="547:8827" name="Btn-free-trial" x="150" y="0" width="227" height="60">
+        <text id="547:8828" name="Try Whitepace free" x="24" y="18.5" width="159" height="23" />
+        <frame id="547:8829" name="Icon" x="193" y="25" width="10" height="10">
+          <frame id="547:8830" name="Group 212" x="0" y="0" width="10" height="10" />
+        </frame>
+      </frame>
+    </frame>
+  </frame>
+</frame>

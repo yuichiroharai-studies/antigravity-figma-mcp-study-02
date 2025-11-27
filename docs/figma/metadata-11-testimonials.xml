@@ -1,0 +1,49 @@
+<frame id="547:9044" name="Testimonial" x="0" y="7453.380859375" width="1440" height="995">
+  <text id="547:9074" name="What Our Clients Says" x="32" y="140" width="1376" height="84" />
+  <frame id="547:9075" name="Content" x="32" y="284" width="1376" height="499">
+    <frame id="547:9076" name="Client" x="0" y="0" width="437.3333435058594" height="499">
+      <frame id="547:9077" name="Comment" x="24" y="60" width="389.3333435058594" height="224">
+        <frame id="547:9132" name="Image-container" x="0" y="0" width="86" height="62" />
+        <text id="547:9083" name="Whitepate is designed as a collaboration tool for businesses that is a full project management solution." x="0" y="94" width="389.3333435058594" height="90" />
+      </frame>
+      <frame id="547:9084" name="Name-box" x="24" y="344" width="383" height="95">
+        <frame id="547:9129" name="Image-container" x="0" y="0" width="95" height="95" />
+        <frame id="547:9086" name="Name" x="137" y="0" width="246" height="95">
+          <text id="547:9087" name="Oberon Shaw, MCH" x="0" y="0" width="246" height="36" />
+          <text id="547:9088" name="Head of Talent Acquisition, North America" x="0" y="51" width="246" height="40" />
+        </frame>
+      </frame>
+    </frame>
+    <frame id="547:9089" name="Client" x="469.33331298828125" y="0" width="437.3333435058594" height="499">
+      <frame id="547:9090" name="Comment" x="24" y="60" width="389.3333435058594" height="224">
+        <frame id="547:9133" name="Image-container" x="0" y="0" width="86" height="62" />
+        <text id="547:9096" name="Whitepate is designed as a collaboration tool for businesses that is a full project management solution." x="0" y="94" width="389.3333435058594" height="90" />
+      </frame>
+      <frame id="547:9097" name="Name-box" x="24" y="344" width="383" height="95">
+        <frame id="547:9130" name="Image-container" x="0" y="0" width="95" height="95" />
+        <frame id="547:9099" name="Name" x="137" y="0" width="246" height="95">
+          <text id="547:9100" name="Oberon Shaw, MCH" x="0" y="0" width="246" height="36" />
+          <text id="547:9101" name="Head of Talent Acquisition, North America" x="0" y="51" width="246" height="40" />
+        </frame>
+      </frame>
+    </frame>
+    <frame id="547:9102" name="Client" x="938.6666259765625" y="0" width="437.3333435058594" height="499">
+      <frame id="547:9103" name="Comment" x="24" y="60" width="389.3333435058594" height="224">
+        <frame id="547:9134" name="Image-container" x="0" y="0" width="86" height="62" />
+        <text id="547:9109" name="Whitepate is designed as a collaboration tool for businesses that is a full project management solution." x="0" y="94" width="389.3333435058594" height="90" />
+      </frame>
+      <frame id="547:9110" name="Name-box" x="24" y="344" width="383" height="95">
+        <frame id="547:9131" name="Image-container" x="0" y="0" width="95" height="95" />
+        <frame id="547:9112" name="Name" x="137" y="0" width="246" height="95">
+          <text id="547:9113" name="Oberon Shaw, MCH" x="0" y="0" width="246" height="36" />
+          <text id="547:9114" name="Head of Talent Acquisition, North America" x="0" y="51" width="246" height="40" />
+        </frame>
+      </frame>
+    </frame>
+  </frame>
+  <frame id="547:9115" name="Slider" x="690" y="843" width="60" height="12">
+    <ellipse id="547:9116" name="Ellipse 42" x="0" y="0" width="12" height="12" />
+    <ellipse id="547:9117" name="Ellipse 43" x="24" y="0" width="12" height="12" />
+    <ellipse id="547:9118" name="Ellipse 44" x="48" y="0" width="12" height="12" />
+  </frame>
+</frame>

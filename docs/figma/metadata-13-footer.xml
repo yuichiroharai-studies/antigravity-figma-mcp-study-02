@@ -1,0 +1,64 @@
+<frame id="547:8738" name="Footer" x="0" y="9156.841796875" width="1440" height="474">
+  <frame id="547:8739" name="Content" x="32" y="140" width="1376" height="302">
+    <frame id="547:8740" name="Info" x="0" y="0" width="1480" height="182">
+      <frame id="547:8741" name="Logo-description" x="0" y="0" width="240" height="169">
+        <frame id="547:8742" name="Logo" x="0" y="0" width="191" height="34">
+          <frame id="553:10306" name="Placeholder" x="0" y="3" width="37" height="29" />
+          <text id="547:8749" name="whitepace" x="47" y="0" width="144" height="34" />
+        </frame>
+        <text id="547:8750" name="whitepace was created for the new ways we live and work. We make a better workspace around the world" x="0" y="49" width="240" height="120" />
+      </frame>
+      <frame id="547:8751" name="Info" x="340" y="0" width="177" height="127">
+        <text id="547:8752" name="Product" x="0" y="0" width="68" height="22" />
+        <text id="547:8753" name="Overview" x="0" y="37" width="70" height="20" />
+        <text id="547:8754" name="Pricing" x="0" y="72" width="50" height="20" />
+        <text id="547:8755" name="Customer stories" x="0" y="107" width="177" height="20" />
+      </frame>
+      <frame id="547:8756" name="Info" x="617" y="0" width="130" height="130">
+        <text id="547:8757" name="Resources" x="0" y="0" width="91" height="22" />
+        <text id="547:8758" name="Blog" x="0" y="38" width="33" height="20" />
+        <text id="547:8759" name="Guides &amp; tutorials" x="0" y="74" width="128" height="20" />
+        <text id="547:8760" name="Help center" x="0" y="110" width="130" height="20" />
+      </frame>
+      <frame id="547:8761" name="Info" x="847" y="0" width="99" height="130">
+        <text id="547:8762" name="Company" x="0" y="0" width="83" height="22" />
+        <text id="547:8763" name="About us" x="0" y="38" width="66" height="20" />
+        <text id="547:8764" name="Careers" x="0" y="74" width="62" height="20" />
+        <text id="547:8765" name="Media kit" x="0" y="110" width="99" height="20" />
+      </frame>
+      <frame id="547:8766" name="Try-today" x="1146" y="0" width="195" height="182">
+        <text id="547:8767" name="Try It Today" x="0" y="0" width="195" height="22" />
+        <text id="547:8768" name="Get started for free. Add your whole team as your needs grow." x="0" y="38" width="195" height="80" />
+        <frame id="547:8769" name="Btn-get-started" x="0" y="148" width="195" height="34">
+          <text id="547:8770" name="Start today" x="40" y="10" width="72" height="14" />
+          <frame id="547:8771" name="Icon" x="122" y="10" width="14" height="14">
+            <frame id="547:8772" name="Group 214" x="0" y="0" width="14" height="14" />
+          </frame>
+        </frame>
+      </frame>
+    </frame>
+    <frame id="547:8775" name="Btm" x="0" y="282" width="1376" height="20">
+      <frame id="547:8776" name="Tems and condition" x="0" y="0" width="737" height="20">
+        <frame id="547:8777" name="Language" x="0" y="0" width="104" height="20">
+          <frame id="547:8778" name="Icon" x="0" y="0.500859260559082" width="19.000003814697266" height="18.998281478881836">
+            <frame id="547:8779" name="Group" x="0" y="0" width="19.000003814697266" height="18.998281478881836" />
+          </frame>
+          <text id="547:8782" name="English" x="25.000003814697266" y="0" width="53" height="20" />
+          <frame id="547:8783" name="Arrow" x="84" y="3" width="20" height="14">
+            <vector id="547:8784" name="Vector" x="4" y="4" width="12" height="6" />
+          </frame>
+        </frame>
+        <text id="547:8785" name="Terms &amp; privacy" x="164" y="0" width="117" height="20" />
+        <text id="547:8786" name="Security" x="341" y="0" width="60" height="20" />
+        <text id="547:8787" name="Status" x="461" y="0" width="47" height="20" />
+        <text id="547:8788" name="©2021 Whitepace LLC." x="568" y="0" width="169" height="20" />
+      </frame>
+      <frame id="547:8789" name="Social Icon" x="1268" y="0" width="108" height="20">
+        <frame id="553:10329" name="Placeholder" x="0" y="0" width="20" height="20" />
+        <frame id="553:10330" name="Placeholder" x="44" y="0" width="20" height="20" />
+        <frame id="553:10331" name="Placeholder" x="88" y="0" width="20" height="20" />
+      </frame>
+    </frame>
+    <line id="547:8799" name="Line 2" x="0" y="245.158203125" width="1376" height="0" />
+  </frame>
+</frame>
