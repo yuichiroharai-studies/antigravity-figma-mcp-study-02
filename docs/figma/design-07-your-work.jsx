@@ -18,13 +18,13 @@ export default function YourWork() {
           data-node-id="547:8362"
         >
           <p
-            className="relative w-full shrink-0 font-['Inter:Bold',sans-serif] text-[72px] leading-[normal] font-bold tracking-[-1.44px]"
+            className="relative w-full shrink-0 font-['Inter',sans-serif] text-[72px] leading-[normal] font-bold tracking-[-1.44px]"
             data-node-id="547:8392"
           >
             Your work, everywhere you are
           </p>
           <p
-            className="relative w-full shrink-0 text-center font-['Inter:Regular',sans-serif] text-[18px] leading-[30px] font-normal tracking-[-0.36px]"
+            className="relative w-full shrink-0 text-center font-['Inter',sans-serif] text-[18px] leading-[30px] font-normal tracking-[-0.36px]"
             data-node-id="547:8393"
           >
             Access your notes from your computer, phone or tablet by
@@ -39,7 +39,7 @@ export default function YourWork() {
           data-node-id="547:8394"
         >
           <p
-            className="relative shrink-0 font-['Inter:Medium',sans-serif] text-[18px] leading-[23px] font-medium tracking-[-0.36px] text-nowrap text-white not-italic"
+            className="relative shrink-0 font-['Inter',sans-serif] text-[18px] leading-[23px] font-medium tracking-[-0.36px] text-nowrap text-white not-italic"
             data-node-id="547:8419"
           >
             Try Taskey

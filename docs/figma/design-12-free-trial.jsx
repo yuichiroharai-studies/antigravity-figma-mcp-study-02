@@ -18,13 +18,13 @@ export default function FreeTrial() {
           data-node-id="547:8972"
         >
           <p
-            className="relative w-[608px] shrink-0 font-['Inter:Bold',sans-serif] text-[72px] leading-[normal] font-bold tracking-[-1.44px]"
+            className="relative w-[608px] shrink-0 font-['Inter',sans-serif] text-[72px] leading-[normal] font-bold tracking-[-1.44px]"
             data-node-id="547:8973"
           >
             Try Whitepace today
           </p>
           <div
-            className="relative w-[550px] shrink-0 font-['Inter:Regular','Noto_Sans:Regular',sans-serif] text-[24px] leading-[32px] font-normal tracking-[-0.48px]"
+            className="relative w-[550px] shrink-0 font-['Inter','Noto_Sans:Regular',sans-serif] text-[24px] leading-[32px] font-normal tracking-[-0.48px]"
             data-node-id="547:8974"
           >
             <p className="mb-0">{`Get started for free. `}</p>
@@ -37,7 +37,7 @@ export default function FreeTrial() {
           data-node-id="547:8975"
         >
           <p
-            className="relative shrink-0 font-['Inter:Medium',sans-serif] text-[18px] leading-[23px] font-medium text-nowrap text-white"
+            className="relative shrink-0 font-['Inter',sans-serif] text-[18px] leading-[23px] font-medium text-nowrap text-white"
             data-node-id="547:8976"
           >
             Try Taskey free
@@ -62,7 +62,7 @@ export default function FreeTrial() {
           </div>
         </div>
         <p
-          className="relative shrink-0 font-['Inter:Regular',sans-serif] text-[21px] leading-[normal] font-normal tracking-[-0.42px] text-nowrap text-white not-italic"
+          className="relative shrink-0 font-['Inter',sans-serif] text-[21px] leading-[normal] font-normal tracking-[-0.42px] text-nowrap text-white not-italic"
           data-node-id="547:8981"
         >
           On a big team? Contact sales

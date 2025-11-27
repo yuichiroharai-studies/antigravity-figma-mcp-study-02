@@ -6,7 +6,7 @@ export default function OurSponsors() {
       data-node-id="547:8523"
     >
       <p
-        className="relative w-full shrink-0 text-center font-['Inter:Bold',sans-serif] text-[72px] leading-[normal] font-bold tracking-[-1.44px] text-[#212529] not-italic"
+        className="relative w-full shrink-0 text-center font-['Inter',sans-serif] text-[72px] leading-[normal] font-bold tracking-[-1.44px] text-[#212529] not-italic"
         data-node-id="547:8553"
       >
         Our sponsors

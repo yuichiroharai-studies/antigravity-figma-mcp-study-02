@@ -18,13 +18,13 @@ export default function Extension() {
           data-node-id="547:8172"
         >
           <p
-            className="relative w-full shrink-0 font-['Inter:Bold',sans-serif] text-[72px] leading-[normal] font-bold tracking-[-1.44px]"
+            className="relative w-full shrink-0 font-['Inter',sans-serif] text-[72px] leading-[normal] font-bold tracking-[-1.44px]"
             data-node-id="547:8202"
           >
             Use as Extension
           </p>
           <p
-            className="relative w-full shrink-0 font-['Inter:Regular','Noto_Sans:Regular',sans-serif] text-[18px] leading-[30px] font-normal tracking-[-0.36px]"
+            className="relative w-full shrink-0 font-['Inter','Noto_Sans:Regular',sans-serif] text-[18px] leading-[30px] font-normal tracking-[-0.36px]"
             data-node-id="547:8203"
           >{`Use the web clipper extension, available on Chrome and Firefox, to save web pages or take screenshots as notes. `}</p>
         </div>
@@ -34,7 +34,7 @@ export default function Extension() {
           data-node-id="547:8204"
         >
           <p
-            className="relative shrink-0 font-['Inter:Medium',sans-serif] text-[18px] leading-[23px] font-medium text-nowrap text-white"
+            className="relative shrink-0 font-['Inter',sans-serif] text-[18px] leading-[23px] font-medium text-nowrap text-white"
             data-node-id="547:8205"
           >
             Let's Go

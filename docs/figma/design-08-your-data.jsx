@@ -18,13 +18,13 @@ export default function YourData() {
           data-node-id="547:8426"
         >
           <p
-            className="relative w-full shrink-0 font-['Inter:Bold',sans-serif] text-[72px] leading-[normal] font-bold tracking-[-1.44px]"
+            className="relative w-full shrink-0 font-['Inter',sans-serif] text-[72px] leading-[normal] font-bold tracking-[-1.44px]"
             data-node-id="547:8456"
           >
             100% your data
           </p>
           <p
-            className="relative w-full shrink-0 font-['Inter:Regular',sans-serif] text-[18px] leading-[30px] font-normal tracking-[-0.36px]"
+            className="relative w-full shrink-0 font-['Inter',sans-serif] text-[18px] leading-[30px] font-normal tracking-[-0.36px]"
             data-node-id="547:8457"
           >{`The app is open source and your notes are saved to an open format, so you'll always have access to them. Uses End-To-End Encryption (E2EE) to secure your notes and ensure no-one but yourself can access them.`}</p>
         </div>
@@ -34,7 +34,7 @@ export default function YourData() {
           data-node-id="547:8458"
         >
           <p
-            className="relative shrink-0 font-['Inter:Medium',sans-serif] text-[18px] leading-[23px] font-medium text-nowrap text-white not-italic"
+            className="relative shrink-0 font-['Inter',sans-serif] text-[18px] leading-[23px] font-medium text-nowrap text-white not-italic"
             data-node-id="547:8459"
           >
             Read more

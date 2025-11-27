@@ -23,7 +23,7 @@ export default function Header() {
             data-node-id="553:10305"
           />
           <p
-            className="relative mt-0 ml-[47px] font-['Inter:Bold',sans-serif] text-[28px] leading-[normal] font-bold text-nowrap text-white not-italic [grid-area:1_/_1]"
+            className="relative mt-0 ml-[47px] font-['Inter',sans-serif] text-[28px] leading-[normal] font-bold text-nowrap text-white not-italic [grid-area:1_/_1]"
             data-node-id="547:8809"
           >
             whitepace
@@ -45,7 +45,7 @@ export default function Header() {
             data-node-id="547:8812"
           >
             <p
-              className="relative shrink-0 font-['Inter:Medium',sans-serif] text-[18px] leading-[23px] font-medium text-nowrap text-white"
+              className="relative shrink-0 font-['Inter',sans-serif] text-[18px] leading-[23px] font-medium text-nowrap text-white"
               data-node-id="547:8813"
               style={{ fontVariationSettings: "'opsz' 14" }}
             >
@@ -71,7 +71,7 @@ export default function Header() {
             data-node-id="547:8815"
           >
             <p
-              className="relative shrink-0 font-['Inter:Medium',sans-serif] text-[18px] leading-[23px] font-medium text-nowrap text-white"
+              className="relative shrink-0 font-['Inter',sans-serif] text-[18px] leading-[23px] font-medium text-nowrap text-white"
               data-node-id="547:8816"
               style={{ fontVariationSettings: "'opsz' 14" }}
             >
@@ -97,7 +97,7 @@ export default function Header() {
             data-node-id="547:8818"
           >
             <p
-              className="relative shrink-0 font-['Inter:Medium',sans-serif] text-[18px] leading-[23px] font-medium text-nowrap text-white"
+              className="relative shrink-0 font-['Inter',sans-serif] text-[18px] leading-[23px] font-medium text-nowrap text-white"
               data-node-id="547:8819"
               style={{ fontVariationSettings: "'opsz' 14" }}
             >
@@ -123,7 +123,7 @@ export default function Header() {
             data-node-id="547:8821"
           >
             <p
-              className="relative shrink-0 font-['Inter:Medium',sans-serif] text-[18px] leading-[23px] font-medium text-nowrap text-white"
+              className="relative shrink-0 font-['Inter',sans-serif] text-[18px] leading-[23px] font-medium text-nowrap text-white"
               data-node-id="547:8822"
               style={{ fontVariationSettings: "'opsz' 14" }}
             >
@@ -155,7 +155,7 @@ export default function Header() {
             data-node-id="547:8825"
           >
             <p
-              className="relative shrink-0 font-['Inter:Medium',sans-serif] text-[18px] leading-[23px] font-medium tracking-[-0.36px] text-nowrap text-white not-italic"
+              className="relative shrink-0 font-['Inter',sans-serif] text-[18px] leading-[23px] font-medium tracking-[-0.36px] text-nowrap text-white not-italic"
               data-node-id="547:8826"
             >
               Login
@@ -167,7 +167,7 @@ export default function Header() {
             data-node-id="547:8827"
           >
             <p
-              className="relative shrink-0 font-['Inter:Medium',sans-serif] text-[18px] leading-[23px] font-medium tracking-[-0.36px] text-nowrap text-white not-italic"
+              className="relative shrink-0 font-['Inter',sans-serif] text-[18px] leading-[23px] font-medium tracking-[-0.36px] text-nowrap text-white not-italic"
               data-node-id="547:8828"
             >
               Try Whitepace free

@@ -23,13 +23,13 @@ export default function WorkManagement() {
             data-node-id="547:8836"
           >
             <p
-              className="relative w-full shrink-0 font-['Inter:Bold',sans-serif] text-[72px] leading-[normal] font-bold tracking-[-1.44px]"
+              className="relative w-full shrink-0 font-['Inter',sans-serif] text-[72px] leading-[normal] font-bold tracking-[-1.44px]"
               data-node-id="547:8866"
             >
               Project Management
             </p>
             <p
-              className="relative w-full shrink-0 font-['Inter:Regular',sans-serif] text-[18px] leading-[30px] font-normal tracking-[-0.36px]"
+              className="relative w-full shrink-0 font-['Inter',sans-serif] text-[18px] leading-[30px] font-normal tracking-[-0.36px]"
               data-node-id="547:8867"
             >
               Images, videos, PDFs and audio files are supported. Create math
@@ -43,7 +43,7 @@ export default function WorkManagement() {
             data-node-id="547:8868"
           >
             <p
-              className="relative shrink-0 font-['Inter:Medium',sans-serif] text-[18px] leading-[23px] font-medium tracking-[-0.36px] text-nowrap text-white not-italic"
+              className="relative shrink-0 font-['Inter',sans-serif] text-[18px] leading-[23px] font-medium tracking-[-0.36px] text-nowrap text-white not-italic"
               data-node-id="547:8869"
             >
               Get Started
@@ -95,13 +95,13 @@ export default function WorkManagement() {
             data-node-id="547:8908"
           >
             <p
-              className="relative w-full shrink-0 font-['Inter:Bold',sans-serif] text-[72px] leading-[normal] font-bold tracking-[-1.44px]"
+              className="relative w-full shrink-0 font-['Inter',sans-serif] text-[72px] leading-[normal] font-bold tracking-[-1.44px]"
               data-node-id="547:8938"
             >
               Work together
             </p>
             <p
-              className="relative w-full shrink-0 font-['Inter:Regular',sans-serif] text-[18px] leading-[30px] font-normal tracking-[-0.36px]"
+              className="relative w-full shrink-0 font-['Inter',sans-serif] text-[18px] leading-[30px] font-normal tracking-[-0.36px]"
               data-node-id="547:8939"
             >{`With whitepace, share your notes with your colleagues and collaborate on them. You can also publish a note to the internet and share the URL with others. `}</p>
           </div>
@@ -111,7 +111,7 @@ export default function WorkManagement() {
             data-node-id="547:8964"
           >
             <p
-              className="relative shrink-0 font-['Inter:Medium',sans-serif] text-[18px] leading-[23px] font-medium tracking-[-0.36px] text-nowrap text-white not-italic"
+              className="relative shrink-0 font-['Inter',sans-serif] text-[18px] leading-[23px] font-medium tracking-[-0.36px] text-nowrap text-white not-italic"
               data-node-id="547:8965"
             >
               Try it now

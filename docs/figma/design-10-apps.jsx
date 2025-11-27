@@ -23,13 +23,13 @@ export default function Apps() {
           data-node-id="547:8729"
         >
           <p
-            className="relative w-full shrink-0 font-['Inter:Bold',sans-serif] text-[72px] leading-[normal] font-bold tracking-[-1.44px]"
+            className="relative w-full shrink-0 font-['Inter',sans-serif] text-[72px] leading-[normal] font-bold tracking-[-1.44px]"
             data-node-id="547:8730"
           >
             Work with Your Favorite Apps Using whitepace
           </p>
           <p
-            className="relative w-full shrink-0 font-['Inter:Regular',sans-serif] text-[18px] leading-[30px] font-normal tracking-[-0.36px]"
+            className="relative w-full shrink-0 font-['Inter',sans-serif] text-[18px] leading-[30px] font-normal tracking-[-0.36px]"
             data-node-id="547:8731"
           >
             Whitepace teams up with your favorite software. Integrate with over
@@ -43,7 +43,7 @@ export default function Apps() {
           data-node-id="547:8732"
         >
           <p
-            className="relative shrink-0 font-['Inter:Medium',sans-serif] text-[18px] leading-[23px] font-medium tracking-[-0.36px] text-nowrap text-white not-italic"
+            className="relative shrink-0 font-['Inter',sans-serif] text-[18px] leading-[23px] font-medium tracking-[-0.36px] text-nowrap text-white not-italic"
             data-node-id="547:8733"
           >
             Read more

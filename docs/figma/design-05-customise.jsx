@@ -23,13 +23,13 @@ export default function Customise() {
           data-node-id="547:9006"
         >
           <p
-            className="relative w-full shrink-0 font-['Inter:Bold','Noto_Sans:Bold',sans-serif] text-[72px] leading-[normal] font-bold tracking-[-1.44px]"
+            className="relative w-full shrink-0 font-['Inter','Noto_Sans:Bold',sans-serif] text-[72px] leading-[normal] font-bold tracking-[-1.44px]"
             data-node-id="547:9036"
           >
             Customise it to your needs
           </p>
           <p
-            className="relative w-full shrink-0 font-['Inter:Regular',sans-serif] text-[18px] leading-[30px] font-normal tracking-[-0.36px]"
+            className="relative w-full shrink-0 font-['Inter',sans-serif] text-[18px] leading-[30px] font-normal tracking-[-0.36px]"
             data-node-id="547:9037"
           >
             Customise the app with plugins, custom themes and multiple text
@@ -43,7 +43,7 @@ export default function Customise() {
           data-node-id="547:9038"
         >
           <p
-            className="relative shrink-0 font-['Inter:Medium',sans-serif] text-[16px] leading-[normal] font-medium tracking-[-0.32px] text-nowrap text-white not-italic"
+            className="relative shrink-0 font-['Inter',sans-serif] text-[16px] leading-[normal] font-medium tracking-[-0.32px] text-nowrap text-white not-italic"
             data-node-id="547:9039"
           >
             Let's Go

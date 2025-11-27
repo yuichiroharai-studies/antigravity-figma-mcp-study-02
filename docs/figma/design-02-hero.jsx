@@ -18,13 +18,13 @@ export default function HeroSection() {
           data-node-id="547:8161"
         >
           <p
-            className="relative w-full shrink-0 font-['Inter:Bold',sans-serif] text-[64px] leading-[normal] font-bold tracking-[-1.28px]"
+            className="relative w-full shrink-0 font-['Inter',sans-serif] text-[64px] leading-[normal] font-bold tracking-[-1.28px]"
             data-node-id="547:8162"
           >
             Get More Done with whitepace
           </p>
           <p
-            className="relative w-full shrink-0 font-['Inter:Regular',sans-serif] text-[18px] leading-[30px] font-normal tracking-[-0.36px]"
+            className="relative w-full shrink-0 font-['Inter',sans-serif] text-[18px] leading-[30px] font-normal tracking-[-0.36px]"
             data-node-id="547:8163"
           >
             Project management software that enables your teams to collaborate,
@@ -37,7 +37,7 @@ export default function HeroSection() {
           data-node-id="547:8164"
         >
           <p
-            className="relative shrink-0 font-['Inter:Medium',sans-serif] text-[18px] leading-[23px] font-medium tracking-[-0.36px] text-nowrap text-white not-italic"
+            className="relative shrink-0 font-['Inter',sans-serif] text-[18px] leading-[23px] font-medium tracking-[-0.36px] text-nowrap text-white not-italic"
             data-node-id="547:8165"
           >
             Try Whitepace free
