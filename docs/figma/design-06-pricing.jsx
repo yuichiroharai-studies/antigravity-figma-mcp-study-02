@@ -172,7 +172,7 @@ export default function Pricing() {
             data-node-id="547:8282"
           >
             <p
-              className="relative shrink-0 font-['Inter:Medium',sans-serif] text-[16px] leading-[normal] font-medium tracking-[-0.32px] text-nowrap whitespace-pre text-[#212529] not-italic"
+              className="relative shrink-0 font-['Inter:Medium',sans-serif] text-[16px] leading-[normal] font-medium tracking-[-0.32px] text-nowrap text-[#212529] not-italic"
               data-node-id="547:8283"
             >
               Get Started
@@ -322,7 +322,7 @@ export default function Pricing() {
             data-node-id="547:8320"
           >
             <p
-              className="relative shrink-0 font-['Inter:Medium',sans-serif] text-[16px] leading-[normal] font-medium tracking-[-0.32px] text-nowrap whitespace-pre text-white not-italic"
+              className="relative shrink-0 font-['Inter:Medium',sans-serif] text-[16px] leading-[normal] font-medium tracking-[-0.32px] text-nowrap text-white not-italic"
               data-node-id="547:8321"
             >
               Get Started
@@ -472,7 +472,7 @@ export default function Pricing() {
             data-node-id="547:8358"
           >
             <p
-              className="relative shrink-0 font-['Inter:Medium',sans-serif] text-[16px] leading-[normal] font-medium tracking-[-0.32px] text-nowrap whitespace-pre text-[#212529] not-italic"
+              className="relative shrink-0 font-['Inter:Medium',sans-serif] text-[16px] leading-[normal] font-medium tracking-[-0.32px] text-nowrap text-[#212529] not-italic"
               data-node-id="547:8359"
             >
               Get Started

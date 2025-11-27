@@ -34,7 +34,7 @@ export default function Extension() {
           data-node-id="547:8204"
         >
           <p
-            className="relative shrink-0 font-['Montserrat:Medium',sans-serif] text-[18px] leading-[23px] font-medium text-nowrap whitespace-pre text-white"
+            className="relative shrink-0 font-['Montserrat:Medium',sans-serif] text-[18px] leading-[23px] font-medium text-nowrap text-white"
             data-node-id="547:8205"
           >
             Let's Go

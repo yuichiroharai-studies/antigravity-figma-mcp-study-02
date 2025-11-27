@@ -34,7 +34,7 @@ export default function YourData() {
           data-node-id="547:8458"
         >
           <p
-            className="relative shrink-0 font-['Inter:Medium',sans-serif] text-[18px] leading-[23px] font-medium text-nowrap whitespace-pre text-white not-italic"
+            className="relative shrink-0 font-['Inter:Medium',sans-serif] text-[18px] leading-[23px] font-medium text-nowrap text-white not-italic"
             data-node-id="547:8459"
           >
             Read more

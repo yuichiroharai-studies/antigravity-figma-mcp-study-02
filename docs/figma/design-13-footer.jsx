@@ -33,7 +33,7 @@ export default function Footer() {
                 data-node-id="553:10306"
               />
               <p
-                className="relative mt-0 ml-[47px] font-['Inter:Bold',sans-serif] text-[28px] leading-[normal] font-bold text-nowrap whitespace-pre text-white not-italic [grid-area:1_/_1]"
+                className="relative mt-0 ml-[47px] font-['Inter:Bold',sans-serif] text-[28px] leading-[normal] font-bold text-nowrap text-white not-italic [grid-area:1_/_1]"
                 data-node-id="547:8749"
               >
                 whitepace
@@ -53,25 +53,25 @@ export default function Footer() {
             data-node-id="547:8751"
           >
             <p
-              className="relative shrink-0 font-['Inter:Bold',sans-serif] text-[18px] leading-[normal] font-bold tracking-[-0.36px] text-nowrap whitespace-pre text-white"
+              className="relative shrink-0 font-['Inter:Bold',sans-serif] text-[18px] leading-[normal] font-bold tracking-[-0.36px] text-nowrap text-white"
               data-node-id="547:8752"
             >
               Product
             </p>
             <p
-              className="relative shrink-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px] text-nowrap whitespace-pre text-[#f7f7ee]"
+              className="relative shrink-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px] text-nowrap text-[#f7f7ee]"
               data-node-id="547:8753"
             >
               Overview
             </p>
             <p
-              className="relative shrink-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px] text-nowrap whitespace-pre text-[#f7f7ee]"
+              className="relative shrink-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px] text-nowrap text-[#f7f7ee]"
               data-node-id="547:8754"
             >
               Pricing
             </p>
             <p
-              className="relative shrink-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px] text-nowrap whitespace-pre text-[#f7f7ee]"
+              className="relative shrink-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px] text-nowrap text-[#f7f7ee]"
               data-node-id="547:8755"
             >
               Customer stories
@@ -83,25 +83,25 @@ export default function Footer() {
             data-node-id="547:8756"
           >
             <p
-              className="relative shrink-0 font-['Inter:Bold',sans-serif] text-[18px] leading-[normal] font-bold tracking-[-0.36px] text-nowrap whitespace-pre text-white"
+              className="relative shrink-0 font-['Inter:Bold',sans-serif] text-[18px] leading-[normal] font-bold tracking-[-0.36px] text-nowrap text-white"
               data-node-id="547:8757"
             >
               Resources
             </p>
             <p
-              className="relative shrink-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px] text-nowrap whitespace-pre text-[#f7f7ee]"
+              className="relative shrink-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px] text-nowrap text-[#f7f7ee]"
               data-node-id="547:8758"
             >
               Blog
             </p>
             <p
-              className="relative shrink-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px] text-nowrap whitespace-pre text-[#f7f7ee]"
+              className="relative shrink-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px] text-nowrap text-[#f7f7ee]"
               data-node-id="547:8759"
             >
               Guides &amp; tutorials
             </p>
             <p
-              className="relative shrink-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px] text-nowrap whitespace-pre text-[#f7f7ee]"
+              className="relative shrink-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px] text-nowrap text-[#f7f7ee]"
               data-node-id="547:8760"
             >
               Help center
@@ -113,25 +113,25 @@ export default function Footer() {
             data-node-id="547:8761"
           >
             <p
-              className="relative shrink-0 font-['Inter:Bold',sans-serif] text-[18px] leading-[normal] font-bold tracking-[-0.36px] text-nowrap whitespace-pre text-white"
+              className="relative shrink-0 font-['Inter:Bold',sans-serif] text-[18px] leading-[normal] font-bold tracking-[-0.36px] text-nowrap text-white"
               data-node-id="547:8762"
             >
               Company
             </p>
             <p
-              className="relative shrink-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px] text-nowrap whitespace-pre text-[#f7f7ee]"
+              className="relative shrink-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px] text-nowrap text-[#f7f7ee]"
               data-node-id="547:8763"
             >
               About us
             </p>
             <p
-              className="relative shrink-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px] text-nowrap whitespace-pre text-[#f7f7ee]"
+              className="relative shrink-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px] text-nowrap text-[#f7f7ee]"
               data-node-id="547:8764"
             >
               Careers
             </p>
             <p
-              className="relative shrink-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px] text-nowrap whitespace-pre text-[#f7f7ee]"
+              className="relative shrink-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px] text-nowrap text-[#f7f7ee]"
               data-node-id="547:8765"
             >
               Media kit
@@ -143,7 +143,7 @@ export default function Footer() {
             data-node-id="547:8766"
           >
             <p
-              className="relative shrink-0 font-['Inter:Bold',sans-serif] text-[18px] leading-[normal] font-bold tracking-[-0.36px] text-nowrap whitespace-pre text-white not-italic"
+              className="relative shrink-0 font-['Inter:Bold',sans-serif] text-[18px] leading-[normal] font-bold tracking-[-0.36px] text-nowrap text-white not-italic"
               data-node-id="547:8767"
             >
               Try It Today
@@ -160,7 +160,7 @@ export default function Footer() {
               data-node-id="547:8769"
             >
               <p
-                className="relative shrink-0 font-['Inter:Medium',sans-serif] text-[14px] leading-[normal] font-medium tracking-[-0.28px] text-nowrap whitespace-pre text-white not-italic"
+                className="relative shrink-0 font-['Inter:Medium',sans-serif] text-[14px] leading-[normal] font-medium tracking-[-0.28px] text-nowrap text-white not-italic"
                 data-node-id="547:8770"
               >
                 Start today
@@ -215,7 +215,7 @@ export default function Footer() {
                 </div>
               </div>
               <p
-                className="relative shrink-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px] text-nowrap whitespace-pre text-[#f7f7ee] not-italic"
+                className="relative shrink-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px] text-nowrap text-[#f7f7ee] not-italic"
                 data-node-id="547:8782"
               >
                 English
@@ -235,25 +235,25 @@ export default function Footer() {
               </div>
             </div>
             <p
-              className="relative shrink-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px] text-nowrap whitespace-pre text-[#f7f7ee] not-italic"
+              className="relative shrink-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px] text-nowrap text-[#f7f7ee] not-italic"
               data-node-id="547:8785"
             >
               Terms &amp; privacy
             </p>
             <p
-              className="relative shrink-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px] text-nowrap whitespace-pre text-[#f7f7ee] not-italic"
+              className="relative shrink-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px] text-nowrap text-[#f7f7ee] not-italic"
               data-node-id="547:8786"
             >
               Security
             </p>
             <p
-              className="relative shrink-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px] text-nowrap whitespace-pre text-[#f7f7ee] not-italic"
+              className="relative shrink-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px] text-nowrap text-[#f7f7ee] not-italic"
               data-node-id="547:8787"
             >
               Status
             </p>
             <p
-              className="relative shrink-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px] text-nowrap whitespace-pre text-[#f7f7ee] not-italic"
+              className="relative shrink-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px] text-nowrap text-[#f7f7ee] not-italic"
               data-node-id="547:8788"
             >
               ©2021 Whitepace LLC.

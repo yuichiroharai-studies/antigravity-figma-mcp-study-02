@@ -37,7 +37,7 @@ export default function FreeTrial() {
           data-node-id="547:8975"
         >
           <p
-            className="relative shrink-0 font-['Montserrat:Medium',sans-serif] text-[18px] leading-[23px] font-medium text-nowrap whitespace-pre text-white"
+            className="relative shrink-0 font-['Montserrat:Medium',sans-serif] text-[18px] leading-[23px] font-medium text-nowrap text-white"
             data-node-id="547:8976"
           >
             Try Taskey free
@@ -62,7 +62,7 @@ export default function FreeTrial() {
           </div>
         </div>
         <p
-          className="relative shrink-0 font-['Inter:Regular',sans-serif] text-[21px] leading-[normal] font-normal tracking-[-0.42px] text-nowrap whitespace-pre text-white not-italic"
+          className="relative shrink-0 font-['Inter:Regular',sans-serif] text-[21px] leading-[normal] font-normal tracking-[-0.42px] text-nowrap text-white not-italic"
           data-node-id="547:8981"
         >
           On a big team? Contact sales
