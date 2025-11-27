@@ -1,5 +1,18 @@
 ---
 import "../styles/global.css";
+import Header from "../components/Header.astro";
+import Hero from "../components/Hero.astro";
+import ProjectManagement from "../components/ProjectManagement.astro";
+import Extension from "../components/Extension.astro";
+import Customise from "../components/Customise.astro";
+import Pricing from "../components/Pricing.astro";
+import YourWork from "../components/YourWork.astro";
+import YourData from "../components/YourData.astro";
+import Sponsors from "../components/Sponsors.astro";
+import Apps from "../components/Apps.astro";
+import Testimonials from "../components/Testimonials.astro";
+import FreeTrial from "../components/FreeTrial.astro";
+import Footer from "../components/Footer.astro";
 ---
 
 <html lang="en">
@@ -9,8 +22,26 @@ import "../styles/global.css";
     <meta name="viewport" content="width=device-width" />
     <meta name="generator" content={Astro.generator} />
     <title>Astro</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
   </head>
   <body>
-    <h1>Astro</h1>
+    <Header />
+    <Hero />
+    <ProjectManagement />
+    <Extension />
+    <Customise />
+    <Pricing />
+    <YourWork />
+    <YourData />
+    <Sponsors />
+    <Apps />
+    <Testimonials />
+    <FreeTrial />
+    <Footer />
   </body>
 </html>
