@@ -45,7 +45,7 @@ export default function Header() {
             data-node-id="547:8812"
           >
             <p
-              className="relative shrink-0 font-['DM_Sans:Medium',sans-serif] text-[18px] leading-[23px] font-medium text-nowrap text-white"
+              className="relative shrink-0 font-['Inter:Medium',sans-serif] text-[18px] leading-[23px] font-medium text-nowrap text-white"
               data-node-id="547:8813"
               style={{ fontVariationSettings: "'opsz' 14" }}
             >
@@ -71,7 +71,7 @@ export default function Header() {
             data-node-id="547:8815"
           >
             <p
-              className="relative shrink-0 font-['DM_Sans:Medium',sans-serif] text-[18px] leading-[23px] font-medium text-nowrap text-white"
+              className="relative shrink-0 font-['Inter:Medium',sans-serif] text-[18px] leading-[23px] font-medium text-nowrap text-white"
               data-node-id="547:8816"
               style={{ fontVariationSettings: "'opsz' 14" }}
             >
@@ -97,7 +97,7 @@ export default function Header() {
             data-node-id="547:8818"
           >
             <p
-              className="relative shrink-0 font-['DM_Sans:Medium',sans-serif] text-[18px] leading-[23px] font-medium text-nowrap text-white"
+              className="relative shrink-0 font-['Inter:Medium',sans-serif] text-[18px] leading-[23px] font-medium text-nowrap text-white"
               data-node-id="547:8819"
               style={{ fontVariationSettings: "'opsz' 14" }}
             >
@@ -123,7 +123,7 @@ export default function Header() {
             data-node-id="547:8821"
           >
             <p
-              className="relative shrink-0 font-['DM_Sans:Medium',sans-serif] text-[18px] leading-[23px] font-medium text-nowrap text-white"
+              className="relative shrink-0 font-['Inter:Medium',sans-serif] text-[18px] leading-[23px] font-medium text-nowrap text-white"
               data-node-id="547:8822"
               style={{ fontVariationSettings: "'opsz' 14" }}
             >
