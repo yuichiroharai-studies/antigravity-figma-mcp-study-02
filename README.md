@@ -72,7 +72,7 @@ https://yuichiroharai-studies.github.io/antigravity-figma-mcp-study-02/0.1.0/
 - 完成した計画書は「[impl-base-desktop.md](docs/plans/impl-base-desktop.md)」
 - 実装開始
 
-#### 結果
+#### 考察
 
 - 実装に掛かった時間は12分程度
   - Figma MCPから取得したデータをローカルに保存したおかげで早くなっている
@@ -92,7 +92,7 @@ https://yuichiroharai-studies.github.io/antigravity-figma-mcp-study-02/0.1.1/
 - 抽出したテキストと実際のコードのテキストを比較させる
 - 費用的にも無料枠で問題なさそう
 
-#### 結果
+#### 考察
 
 - 今回は、テキスト抽出側で`Whitepace`を`Whitespace`に誤認するミスがあったが、それ以外はすべて一致
 - 誤植や文法ミス、`Evernote`という関係ない文字列があること、なども指摘してくれた
@@ -122,7 +122,7 @@ https://yuichiroharai-studies.github.io/antigravity-figma-mcp-study-02/0.1.2/
   - `relative`
     - 子要素で`absolute`や`z-index`の指定がないものを選ぶ
 
-#### 結果
+#### 考察
 
 AIに判断させて不要なものを削除させたが、細かいことろで抜けがあったのでレビューは必須。
 
@@ -152,7 +152,7 @@ https://yuichiroharai-studies.github.io/antigravity-figma-mcp-study-02/0.1.3/
 - ホバーアニメーション
   - デザインで指定がなかったので、簡易的に実装
 
-#### 結果
+#### 考察
 
 AIは対象を一覧化したりそこから分析したりするのは得意なので任せる。  
 実装にあたっての細かい判断は(今はまだ)自分でした方が早そう。
@@ -167,7 +167,7 @@ https://yuichiroharai-studies.github.io/antigravity-figma-mcp-study-02/0.2.0/
 - テキスト+画像のような2列のセクションをグリッドアウトに
   - ついでに最適化
 
-#### 結果
+#### 考察
 
 グリッドレイアウトのようないくつかのスタイルを組み合わせるタイプは、AIにやらせた方が早い。
 
@@ -183,3 +183,39 @@ A.astroの最適化をB.astro、C.astro、D.astroにも適用して
 テキストと画像の順番は変更しないで
 列数も変えないで
 ```
+
+### v0.2.1
+
+https://yuichiroharai-studies.github.io/antigravity-figma-mcp-study-02/0.2.1/
+
+#### 作業内容
+
+Pricing.astroの本格実装。
+
+- 不要なスタイルや冗長な入れ子構造を削除
+- 配列のmapでループして要素を生成
+- 選択状態によってスタイルを変更、クリックイベントで選択状態を変更
+- 選択したら縦に背景が大きくなるトランジション演出
+
+#### 考察
+
+3つのプランが横に並んでいるが、デザインから取り込んだ段階で、真ん中のプランだけ別のスタイルが当たっていた。
+
+```
+2番目のプランだけ別のスタイルが当たっているので、`data-selected="true"`を持つかどうかでスタイルを切り替えられるようにして
+groupの機能も利用して
+```
+
+のような指示でAIにスタイルをマージしてもらった。
+
+3つのプランに同じスタイルが当たったことで、配列のmapでループして要素を生成できるようになった。  
+これもAIに指示すれば自動でやってくれる。
+
+ちなみに、
+
+```
+青い背景をbefore疑似要素に変更して
+```
+
+のような指示もやってくれる。  
+これで背景だけTransformでトランジションさせることが可能になった。
