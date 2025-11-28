@@ -1,5 +1,5 @@
 ---
-
+import Button from "./ui/Button.astro";
 ---
 
 <div
@@ -342,18 +342,14 @@
           </p>
         </div>
       </div>
-      <div
-        class="flex items-center justify-center gap-[10px] rounded-[8px] bg-[#4f9cf9] px-[40px] py-[16px]"
+      <Button
+        class="px-[40px] py-[16px] text-[16px]"
         data-name="Btn-get-started"
         data-node-id="547:8320"
+        hasIcon={false}
       >
-        <p
-          class="text-[16px] font-medium tracking-[-0.32px] text-white"
-          data-node-id="547:8321"
-        >
-          Get Started
-        </p>
-      </div>
+        Get Started
+      </Button>
     </div>
     <div
       class="flex min-h-px min-w-px grow basis-0 flex-col items-start justify-center gap-[25px] rounded-[10px] border border-solid border-[#ffe492] bg-white px-[44px] py-[40px]"

@@ -1,0 +1,28 @@
+---
+import arrowLeft from "../../images/ui/arrow-left.svg";
+
+interface Props {
+  hasIcon?: boolean;
+  class?: string;
+}
+
+const { hasIcon = true, class: className, ...rest } = Astro.props;
+---
+
+<button
+  class:list={[
+    "flex cursor-pointer items-center justify-center gap-[10px] rounded-[8px] border-[1px] border-[#4f9cf9] bg-[#4f9cf9] tracking-[-0.02em] text-white transition-opacity hover:opacity-70",
+    className,
+  ]}
+  {...rest}
+>
+  <slot />
+  {
+    hasIcon && (
+      <div
+        class="relative size-[14px] bg-white"
+        style={`mask-image: url(${arrowLeft.src});`}
+      />
+    )
+  }
+</button>

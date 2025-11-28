@@ -1,5 +1,5 @@
 ---
-
+import Button from "./ui/Button.astro";
 ---
 
 <div
@@ -45,7 +45,9 @@
         <p
           class="text-[18px] leading-[23px] font-medium"
           data-node-id="547:8813"
-          style={{ fontVariationSettings: "'opsz' 14" }}
+          style={{
+            fontVariationSettings: "'opsz' 14",
+          }}
         >
           Products
         </p>
@@ -159,33 +161,13 @@
           Login
         </p>
       </div>
-      <div
-        class="flex items-center gap-[10px] rounded-[8px] bg-[#4f9cf9] p-[20px]"
+      <Button
+        class="p-[20px] text-[18px]"
         data-name="Btn-free-trial"
         data-node-id="547:8827"
       >
-        <p
-          class="text-[18px] leading-[23px] font-medium tracking-[-0.36px]"
-          data-node-id="547:8828"
-        >
-          Try Whitepace free
-        </p>
-        <div
-          class="flex items-start gap-[4px]"
-          data-name="Icon"
-          data-node-id="547:8829"
-        >
-          <div class="relative size-[10px]" data-node-id="547:8830">
-            <div class="absolute inset-[-5%]">
-              <img
-                alt=""
-                class="block size-full max-w-none"
-                src="https://placehold.co/10x10/808080/ffffff"
-              />
-            </div>
-          </div>
-        </div>
-      </div>
+        Try Whitepace free
+      </Button>
     </div>
   </div>
 </div>
