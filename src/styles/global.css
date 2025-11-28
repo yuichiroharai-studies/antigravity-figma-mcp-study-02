@@ -3,3 +3,9 @@
 @theme {
   --font-sans: "Inter", sans-serif;
 }
+
+@layer base {
+  html {
+    line-height: normal;
+  }
+}
