@@ -90,6 +90,44 @@ https://yuichiroharai-studies.github.io/antigravity-figma-mcp-study-02/0.1.1/
   - Gemini APIを使い、スクリーンショットからテキストを抽出する
   - 抽出したテキストと実際のコードのテキストを比較させる
   - 費用的にも無料枠で問題なさそう
-- 文字校正の結果
-  - 今回は、テキスト抽出側で`Whitepace`を`Whitespace`に誤認するミスがあったが、それ以外はすべて一致
-  - 誤植や文法ミス、`Evernote`という関係ない文字列があることなども指摘してくれた
+
+#### 結果
+
+- 今回は、テキスト抽出側で`Whitepace`を`Whitespace`に誤認するミスがあったが、それ以外はすべて一致
+- 誤植や文法ミス、`Evernote`という関係ない文字列があることなども指摘してくれた
+
+### v0.1.2
+
+https://yuichiroharai-studies.github.io/antigravity-figma-mcp-study-02/0.1.2/
+
+#### 作業内容
+
+冗長なスタイル指定を減らしたい
+
+- 一括で削除したもの
+  - `whitespace-pre`
+    - 明らかに不要
+  - `box-border`
+    - Tailwindで初期化済み
+  - `content-stretch`, `shrink-0`, `text-nowrap`
+    - いったん全削除して、後で必要なものだけ適用しなおす
+
+- AIに判断させて不要なものだけを削除
+  - フォントファミリー、フォントウェイト、テキスト色、背景色
+    - `global.css`にまとめる
+  - 行間
+    - Figmaでの初期値は`leading-[normal]`
+    - Tailwindでは`1.5`で初期化されているので、`global.css`内で`line-height: normal`で上書き
+  - `relative`
+    - 子要素で`absolute`や`z-index`の指定がないものを選ぶ
+
+#### 結果
+
+AIに判断させて不要なものを削除させたが、細かいことろで抜けがあったのでレビューは必須
+
+- 広い対象範囲を一気にやっているので、抜けが多くなってそう
+- 実行前の判断やアルゴリズムは正しいが、実際の結果がそうなってない場合などもある
+  - WindowsなのでPowerShellの使い方がおかしい場合など
+- 「親要素」、「先祖要素」などの用語を使い分けないと齟齬が出てくる
+
+AIモデルの進化によっても変わってくると思うので様子見
