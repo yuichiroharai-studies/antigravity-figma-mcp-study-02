@@ -4,42 +4,36 @@ import Button from "./ui/Button.astro";
 
 <div class="w-full" data-name="Apps" data-node-id="547:8583">
   <div
-    class="mx-auto flex size-full max-w-[1440px] items-center gap-[100px] px-[32px] py-[140px]"
+    class="mx-auto grid max-w-[1440px] grid-cols-12 items-center gap-[32px] px-[32px] py-[140px]"
   >
-    <img
-      class="h-[470px] w-[582px] bg-[#c4defd]"
-      data-name="Image-container"
-      data-node-id="547:9128"
-      src="https://placehold.co/582x470/808080/ffffff"
-      alt="Apps Image"
-    />
+    <div class="col-span-5" data-name="Image-container" data-node-id="547:9128">
+      <img
+        class="w-full"
+        src="https://placehold.co/582x470/808080/ffffff"
+        alt="Apps Image"
+      />
+    </div>
     <div
-      class="flex min-h-px min-w-px grow basis-0 flex-col items-start gap-[60px]"
+      class="col-span-6 col-start-7"
       data-name="Heading"
       data-node-id="547:8728"
     >
-      <div
-        class="flex w-full flex-col items-start gap-[24px]"
-        data-name="Text-block"
-        data-node-id="547:8729"
+      <h2
+        class="text-[72px] font-bold tracking-[-0.02em]"
+        data-node-id="547:8730"
       >
-        <p
-          class="w-full text-[72px] font-bold tracking-[-1.44px]"
-          data-node-id="547:8730"
-        >
-          Work with Your Favorite Apps Using whitepace
-        </p>
-        <p
-          class="w-full text-[18px] leading-[30px] tracking-[-0.36px]"
-          data-node-id="547:8731"
-        >
-          Whitepace teams up with your favorite software. Integrate with over
-          1000+ apps with Zapier to have all the tools you need for your project
-          success.
-        </p>
-      </div>
+        Work with Your Favorite Apps Using whitepace
+      </h2>
+      <p
+        class="mt-[24px] text-[18px] leading-[30px] tracking-[-0.02em]"
+        data-node-id="547:8731"
+      >
+        Whitepace teams up with your favorite software. Integrate with over
+        1000+ apps with Zapier to have all the tools you need for your project
+        success.
+      </p>
       <Button
-        class="px-[40px] py-[20px] text-[18px]"
+        class="mt-[60px] px-[40px] py-[20px] text-[18px]"
         data-name="Btn-try"
         data-node-id="547:8732"
       >

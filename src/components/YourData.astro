@@ -2,49 +2,43 @@
 import Button from "./ui/Button.astro";
 ---
 
-<div class="w-full bg-white" data-name="Your data" data-node-id="547:8424">
+<div
+  class="w-full bg-white text-[#212529]"
+  data-name="Your data"
+  data-node-id="547:8424"
+>
   <div
-    class="relative mx-auto flex size-full max-w-[1440px] items-center px-[32px] py-[140px]"
+    class="mx-auto grid max-w-[1440px] grid-cols-12 items-center gap-[32px] px-[32px] py-[140px]"
   >
-    <div
-      class="flex min-h-px min-w-px grow basis-0 flex-col items-start gap-[60px]"
-      data-name="Heading"
-      data-node-id="547:8425"
-    >
-      <div
-        class="flex w-full flex-col items-start gap-[24px] text-[#212529]"
-        data-name="Text-block"
-        data-node-id="547:8426"
+    <div class="col-span-7" data-name="Heading" data-node-id="547:8425">
+      <h2
+        class="text-[72px] font-bold tracking-[-0.02em]"
+        data-node-id="547:8456"
       >
-        <p
-          class="w-full text-[72px] font-bold tracking-[-1.44px]"
-          data-node-id="547:8456"
-        >
-          100% your data
-        </p>
-        <p
-          class="w-full text-[18px] leading-[30px] tracking-[-0.36px]"
-          data-node-id="547:8457"
-        >
-          The app is open source and your notes are saved to an open format, so
-          you'll always have access to them. Uses End-To-End Encryption (E2EE)
-          to secure your notes and ensure no-one but yourself can access them.
-        </p>
-      </div>
+        100% your data
+      </h2>
+      <p
+        class="mt-[24px] text-[18px] leading-[30px] tracking-[-0.02em]"
+        data-node-id="547:8457"
+      >
+        The app is open source and your notes are saved to an open format, so
+        you'll always have access to them. Uses End-To-End Encryption (E2EE) to
+        secure your notes and ensure no-one but yourself can access them.
+      </p>
       <Button
-        class="px-[40px] py-[20px] text-[18px]"
+        class="mt-[60px] px-[40px] py-[20px] text-[18px]"
         data-name="Btn-try"
         data-node-id="547:8458"
       >
         Read more
       </Button>
     </div>
-    <img
-      class="h-[381px] w-[681px] bg-[#c4defd]"
-      data-name="Image-container"
-      data-node-id="547:9123"
-      src="https://placehold.co/681x381/808080/ffffff"
-      alt="Your Data Image"
-    />
+    <div class="col-span-5" data-name="Image-container" data-node-id="547:9123">
+      <img
+        class="w-full"
+        src="https://placehold.co/681x381/808080/ffffff"
+        alt="Your Data Image"
+      />
+    </div>
   </div>
 </div>
