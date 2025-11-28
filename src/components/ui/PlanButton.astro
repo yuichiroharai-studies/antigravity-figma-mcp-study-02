@@ -1,0 +1,22 @@
+---
+interface Props {
+  class?: string;
+}
+
+const { class: className, ...rest } = Astro.props;
+---
+
+<button
+  class:list={[
+    "flex cursor-pointer items-center justify-center gap-[10px] rounded-[8px] border-[1px] tracking-[-0.02em] transition-opacity hover:opacity-70",
+    "px-[40px] py-[16px] text-[16px]",
+    "pointer-events-none",
+    "group-data-[selected=true]:pointer-events-auto group-data-[selected=true]:opacity-100",
+    "border-[#ffe492] bg-white text-[#212529]",
+    "group-data-[selected=true]:border-[#4f9cf9] group-data-[selected=true]:bg-[#4f9cf9] group-data-[selected=true]:text-white",
+    className,
+  ]}
+  {...rest}
+>
+  <slot />
+</button>
