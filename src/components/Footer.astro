@@ -67,19 +67,12 @@ const legalLinks = [
 ];
 ---
 
-<div class="w-full" data-name="Footer">
+<div class="w-full">
   <div
     class="relative mx-auto flex w-full max-w-[1440px] flex-col items-start gap-[100px] px-[32px] pt-[140px] pb-[32px]"
-    data-name="Content"
   >
-    <div
-      class="grid w-full grid-cols-12 items-start gap-[32px]"
-      data-name="Info"
-    >
-      <div
-        class="col-span-3 flex flex-col gap-[15px]"
-        data-name="Logo-description"
-      >
+    <div class="grid w-full grid-cols-12 items-start gap-[32px]">
+      <div class="col-span-3 flex flex-col gap-[15px]">
         <Logo />
 
         <p
@@ -94,7 +87,7 @@ const legalLinks = [
         {
           footerSections.map((section) => (
             <li class="col-span-2">
-              <div class="flex flex-col gap-[15px]" data-name="Info">
+              <div class="flex flex-col gap-[15px]">
                 <h3 class="text-[18px] font-bold">{section.title}</h3>
                 <ul class="flex flex-col gap-[15px] text-[16px] leading-[20px]">
                   {section.items.map((item) => (
@@ -116,7 +109,6 @@ const legalLinks = [
 
       <div
         class="col-span-3 flex flex-col items-start gap-[16px] tracking-[-0.02em]"
-        data-name="Try-today"
       >
         <p class="text-[28px] font-bold">Try It Today</p>
         <p class="text-[16px] leading-[20px] text-[#f7f7ee]">
@@ -131,14 +123,8 @@ const legalLinks = [
     <div
       class="flex w-full items-start justify-between border-t border-[#2e4b75] pt-[30px]"
     >
-      <div
-        class="flex items-end gap-[40px] text-[16px] tracking-[-0.02em]"
-        data-name="Terms and condition"
-      >
-        <button
-          class="group flex cursor-pointer items-center gap-[8px]"
-          data-name="Language"
-        >
+      <div class="flex items-end gap-[40px] text-[16px] tracking-[-0.02em]">
+        <button class="group flex cursor-pointer items-center gap-[8px]">
           <div
             class="h-[19px] w-[19px] bg-white mask-contain mask-no-repeat transition-colors group-hover:bg-[#FFE492]"
             style={`mask-image: url(${lang.src})`}
@@ -170,7 +156,7 @@ const legalLinks = [
         <p class="text-[14px]">©2021 Whitepace LLC.</p>
       </div>
 
-      <ul class="flex items-center gap-[24px]" data-name="Social Icons">
+      <ul class="flex items-center gap-[24px]">
         {
           socialIcons.map((icon) => (
             <li>

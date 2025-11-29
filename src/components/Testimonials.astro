@@ -32,24 +32,18 @@ const testimonials = [
 ];
 ---
 
-<div class="w-full bg-white text-[#212529]" data-name="Testimonial">
+<div class="w-full bg-white text-[#212529]">
   <div
     class="mx-auto flex max-w-[1440px] flex-col items-center gap-[60px] px-[32px] py-[140px]"
   >
     <h3 class="text-[70px] font-bold tracking-[-0.02em]">
       What Our Clients Say
     </h3>
-    <ul class="flex gap-[32px]" data-name="Content">
+    <ul class="flex gap-[32px]">
       {
         testimonials.map((testimonial) => (
-          <li
-            class="flex flex-col gap-[60px] rounded-[10px] bg-white px-[24px] py-[60px] shadow-[15px_10px_50px_0px_rgba(0,0,0,0.1)]"
-            data-name="Client"
-          >
-            <div
-              class="flex flex-col gap-[32px] border-[0px_0px_1px] border-solid border-[#212529] px-0 pt-0 pb-[40px]"
-              data-name="Client-comment"
-            >
+          <li class="flex flex-col gap-[60px] rounded-[10px] bg-white px-[24px] py-[60px] shadow-[15px_10px_50px_0px_rgba(0,0,0,0.1)]">
+            <div class="flex flex-col gap-[32px] border-[0px_0px_1px] border-solid border-[#212529] px-0 pt-0 pb-[40px]">
               <div
                 class="h-[62px] w-[86px] bg-[#043873]"
                 style={`mask-image: url(${quoteIcon.src});`}
@@ -58,7 +52,7 @@ const testimonials = [
                 {testimonial.comment}
               </p>
             </div>
-            <div class="flex gap-[8%]" data-name="Client-profile">
+            <div class="flex gap-[8%]">
               <div class="w-[95px] shrink-0">
                 <img
                   class="w-full rounded-[9999px]"
@@ -66,7 +60,7 @@ const testimonials = [
                   alt={testimonial.clientAlt}
                 />
               </div>
-              <div class="flex flex-col gap-[15px]" data-name="Client-info">
+              <div class="flex flex-col gap-[15px]">
                 <p class="text-[24px] leading-[36px] font-semibold tracking-[-0.02em]">
                   {testimonial.name}
                 </p>
@@ -79,7 +73,7 @@ const testimonials = [
         ))
       }
     </ul>
-    <div class="hidden h-[12px] w-[60px]" data-name="Slider">
+    <div class="hidden h-[12px] w-[60px]">
       <img
         alt="Slider"
         class="block size-full max-w-none"

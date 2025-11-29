@@ -45,21 +45,18 @@ const pricingPlans = [
 ];
 ---
 
-<div class="w-full bg-white" data-name="Pricing">
+<div class="w-full bg-white">
   <div
     class="mx-auto flex max-w-[1440px] flex-col gap-[100px] px-[32px] py-[140px]"
   >
-    <div
-      class="flex flex-col gap-[24px] text-center text-[#212529]"
-      data-name="Heading"
-    >
+    <div class="flex flex-col gap-[24px] text-center text-[#212529]">
       <h2 class="text-[72px] font-bold tracking-[-0.02em]">Choose Your Plan</h2>
       <p class="text-[18px] leading-[30px] tracking-[-0.02em]">
         Whether you want to get organized, keep your personal life on track, or
         boost workplace productivity, Whitepace has the right plan for you.
       </p>
     </div>
-    <ul class="flex gap-[32px]" data-name="Plan list">
+    <ul class="flex gap-[32px]">
       {
         pricingPlans.map((plan) => (
           <li
@@ -75,13 +72,10 @@ const pricingPlans = [
               // 選択状態の疑似要素アニメーション
               "data-[selected=true]:before:scale-y-[1.15] data-[selected=true]:before:border-[#043873] data-[selected=true]:before:bg-[#043873] data-[selected=true]:before:transition-transform data-[selected=true]:before:duration-300 data-[selected=true]:before:ease-out",
             ]}
-            data-name="Plan"
+            data-name="plan"
             data-selected={plan.selected ? "true" : undefined}
           >
-            <div
-              class="relative flex flex-col gap-[24px] text-[#212529] group-data-[selected=true]:text-white"
-              data-name="Plan-text"
-            >
+            <div class="relative flex flex-col gap-[24px] text-[#212529] group-data-[selected=true]:text-white">
               <h3 class="text-[24px] leading-[36px] font-semibold">
                 {plan.name}
               </h3>
@@ -91,15 +85,9 @@ const pricingPlans = [
               <p class="text-[18px] leading-[23px] font-medium tracking-[-0.36px]">
                 {plan.description}
               </p>
-              <ul
-                class="flex flex-col gap-[28px] text-[16px] leading-[20px] tracking-[-0.02em]"
-                data-name="Plan-features"
-              >
+              <ul class="flex flex-col gap-[28px] text-[16px] leading-[20px] tracking-[-0.02em]">
                 {plan.features.map((feature) => (
-                  <li
-                    class="flex items-center gap-[19px]"
-                    data-name="Plan-feature"
-                  >
+                  <li class="flex items-center gap-[19px]">
                     <div
                       class="size-[20px] shrink-0 bg-[#212529] mask-contain mask-no-repeat group-data-[selected=true]:bg-[#ffe492]"
                       style={`mask-image: url(${checkMark.src})`}
@@ -119,7 +107,7 @@ const pricingPlans = [
 
 <script>
   // すべてのプランを取得
-  const plans = document.querySelectorAll('[data-name="Plan"]');
+  const plans = document.querySelectorAll('[data-name="plan"]');
 
   plans.forEach((plan) => {
     plan.addEventListener("click", () => {
