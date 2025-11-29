@@ -1,165 +1,63 @@
 ---
 import Button from "./ui/Button.astro";
+import Logo from "./ui/Logo.astro";
+import chevronDown from "../images/icon/chevron-down.svg";
+
+const navItems = [
+  { label: "Products", href: "#products" },
+  { label: "Solutions", href: "#solutions" },
+  { label: "Resources", href: "#resources" },
+  { label: "Pricing", href: "#pricing" },
+];
 ---
 
 <div class="w-full" data-name="Header" data-node-id="547:8800">
   <div
-    class="relative mx-auto flex size-full max-w-[1440px] items-center justify-between px-[32px] py-[16px]"
+    class="mx-auto flex max-w-[1440px] items-center justify-between px-[32px] py-[16px]"
   >
+    <Logo />
+
     <div
-      class="flex w-[191px] items-center justify-between"
-      data-name="Logo"
-      data-node-id="547:8801"
+      class="flex items-center gap-[64px] text-[18px] leading-[23px] font-medium tracking-[-0.02em]"
+      data-node-id="547:8810"
     >
-      <div
-        class="inline-grid grid-cols-[max-content] grid-rows-[max-content] place-items-start"
-        data-name="Logo"
-        data-node-id="547:8802"
-      >
-        <div
-          class="mt-[3px] ml-0 h-[29px] w-[37px] bg-[#c4defd] leading-[0] [grid-area:1_/_1]"
-          data-name="Placeholder"
-          data-node-id="553:10305"
-        >
-        </div>
-        <p
-          class="relative mt-0 ml-[47px] text-[28px] font-bold [grid-area:1_/_1]"
-          data-node-id="547:8809"
-        >
-          whitepace
-        </p>
-      </div>
-    </div>
-    <div class="flex items-center" data-node-id="547:8810">
-      <div
-        class="flex w-[551.5px] items-start gap-[32px]"
+      <ul
+        class="flex items-start gap-[32px]"
         data-name="Nav-menu"
         data-node-id="547:8811"
       >
-        <div
-          class="flex items-center gap-[10px]"
-          data-name="Products"
-          data-node-id="547:8812"
-        >
-          <p
-            class="text-[18px] leading-[23px] font-medium"
-            data-node-id="547:8813"
-            style={{
-              fontVariationSettings: "'opsz' 14",
-            }}
-          >
-            Products
-          </p>
-          <div
-            class="relative h-[4px] w-[9px]"
-            data-name="Vector"
-            data-node-id="547:8814"
-          >
-            <div class="absolute inset-[-12.5%_-5.56%]">
-              <img
-                alt=""
-                class="block size-full max-w-none"
-                src="https://placehold.co/9x4/808080/ffffff"
-              />
-            </div>
-          </div>
-        </div>
-        <div
-          class="flex items-center gap-[10px]"
-          data-name="Solutios"
-          data-node-id="547:8815"
-        >
-          <p
-            class="text-[18px] leading-[23px] font-medium"
-            data-node-id="547:8816"
-            style={{ fontVariationSettings: "'opsz' 14" }}
-          >
-            Solutions
-          </p>
-          <div
-            class="relative h-[4px] w-[9px]"
-            data-name="Vector"
-            data-node-id="547:8817"
-          >
-            <div class="absolute inset-[-12.5%_-5.56%]">
-              <img
-                alt=""
-                class="block size-full max-w-none"
-                src="https://placehold.co/9x4/808080/ffffff"
-              />
-            </div>
-          </div>
-        </div>
-        <div
-          class="flex items-center gap-[10px]"
-          data-name="Resources"
-          data-node-id="547:8818"
-        >
-          <p
-            class="text-[18px] leading-[23px] font-medium"
-            data-node-id="547:8819"
-            style={{ fontVariationSettings: "'opsz' 14" }}
-          >
-            Resources
-          </p>
-          <div
-            class="relative h-[4px] w-[9px]"
-            data-name="Vector"
-            data-node-id="547:8820"
-          >
-            <div class="absolute inset-[-12.5%_-5.56%]">
-              <img
-                alt=""
-                class="block size-full max-w-none"
-                src="https://placehold.co/9x4/808080/ffffff"
-              />
-            </div>
-          </div>
-        </div>
-        <div
-          class="flex items-center gap-[10px]"
-          data-name="Pricing"
-          data-node-id="547:8821"
-        >
-          <p
-            class="text-[18px] leading-[23px] font-medium"
-            data-node-id="547:8822"
-            style={{ fontVariationSettings: "'opsz' 14" }}
-          >
-            Pricing
-          </p>
-          <div
-            class="relative h-[4px] w-[9px]"
-            data-name="Vector"
-            data-node-id="547:8823"
-          >
-            <div class="absolute inset-[-12.5%_-5.56%]">
-              <img
-                alt=""
-                class="block size-full max-w-none"
-                src="https://placehold.co/9x4/808080/ffffff"
-              />
-            </div>
-          </div>
-        </div>
-      </div>
+        {
+          navItems.map((item) => (
+            <li>
+              <a
+                href={item.href}
+                class="group flex items-center gap-[10px]"
+                data-name={item.label}
+              >
+                <p class="transition-colors group-hover:text-[#FFE492]">
+                  {item.label}
+                </p>
+                <div
+                  class="mt-[2px] h-[7px] w-[13px] bg-white mask-contain mask-no-repeat transition-colors group-hover:bg-[#FFE492]"
+                  style={`mask-image: url(${chevronDown.src})`}
+                />
+              </a>
+            </li>
+          ))
+        }
+      </ul>
       <div
         class="flex items-center gap-[24px]"
         data-name="Btn"
         data-node-id="547:8824"
       >
-        <div
-          class="flex w-[126px] items-center justify-center gap-[10px]"
+        <button
+          class="flex shrink-0 cursor-pointer items-center justify-center gap-[10px] rounded-[8px] bg-[#FFE492] px-[40px] py-[20px] text-[#043873] transition-opacity hover:opacity-80"
           data-name="Btn-login"
           data-node-id="547:8825"
         >
-          <p
-            class="text-[18px] leading-[23px] font-medium tracking-[-0.36px]"
-            data-node-id="547:8826"
-          >
-            Login
-          </p>
-        </div>
+          Login
+        </button>
         <Button
           class="p-[20px] text-[18px]"
           data-name="Btn-free-trial"
