@@ -1,70 +1,67 @@
 ---
 import Button from "./ui/Button.astro";
+import appleIcon from "../images/icon/app-apple.svg";
+import windowsIcon from "../images/icon/app-windows.svg";
+import androidIcon from "../images/icon/app-android.svg";
+
+const appIcons = [
+  {
+    name: "apple",
+    icon: appleIcon,
+    alt: "Download for Apple",
+    link: "https://www.apple.com/app-store/",
+    width: 60,
+    height: 60,
+  },
+  {
+    name: "windows",
+    icon: windowsIcon,
+    alt: "Download for Windows",
+    link: "https://www.microsoft.com/store/apps",
+    width: 60,
+    height: 60,
+  },
+  {
+    name: "android",
+    icon: androidIcon,
+    alt: "Download for Android",
+    link: "https://play.google.com/store",
+    width: 60,
+    height: 60,
+  },
+];
 ---
 
-<div class="w-full" data-name="Free Trial" data-node-id="547:8970">
+<div class="w-full" data-name="Free Trial">
   <div
     class="mx-auto flex max-w-[1440px] flex-col items-center gap-[40px] px-[32px] pt-[140px] pb-[32px]"
-    data-name="Heading"
-    data-node-id="547:8971"
   >
     <div
-      class="flex flex-col items-center gap-[24px] text-center"
-      data-name="Text-block"
-      data-node-id="547:8972"
+      class="flex flex-col items-center gap-[24px] text-center tracking-[-0.02em]"
     >
-      <p
-        class="w-[608px] text-[72px] font-bold tracking-[-1.44px]"
-        data-node-id="547:8973"
-      >
-        Try Whitepace today
-      </p>
-      <div
-        class="w-[550px] text-[24px] leading-[32px] tracking-[-0.48px]"
-        data-node-id="547:8974"
-      >
+      <h2 class="w-[608px] text-[72px] font-bold">Try Whitepace today</h2>
+      <div class="w-[550px] text-[24px] leading-[32px]">
         <p class="mb-0">Get started for free.</p>
         <p>Add your whole team as your needs grow.</p>
       </div>
     </div>
-    <Button
-      class="px-[40px] py-[20px] text-[18px]"
-      data-name="Btn-try"
-      data-node-id="547:8975"
-    >
-      Try Taskey free
-    </Button>
-    <p class="text-[21px] tracking-[-0.42px]" data-node-id="547:8981">
-      On a big team? Contact sales
-    </p>
-    <div
-      class="flex items-start gap-[40px]"
-      data-name="App-icon"
-      data-node-id="547:8982"
-    >
-      <img
-        class="size-[60px] bg-[#c4defd]"
-        data-name="Image-container"
-        data-node-id="547:8983"
-        src="https://placehold.co/60x60/808080/ffffff"
-        alt="App Icon 1"
-      />
-      <img
-        class="size-[60px] bg-[#c4defd]"
-        data-name="Image-container"
-        data-node-id="547:8988"
-        src="https://placehold.co/60x60/808080/ffffff"
-        alt="App
-Icon 2"
-      />
-      <img
-        class="size-[60px] bg-[#c4defd]"
-        data-name="Image-container"
-        data-node-id="547:8995"
-        src="https://placehold.co/60x60/808080/ffffff"
-        alt="App
-Icon 3"
-      />
-    </div>
+    <Button class="px-[40px] py-[20px] text-[18px]"> Try Taskey free </Button>
+    <p class="text-[21px] tracking-[-0.02em]">On a big team? Contact sales</p>
+    <ul class="flex items-start gap-[40px]">
+      {
+        appIcons.map((app) => (
+          <li>
+            <a
+              href={app.link}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="block bg-[#F7F7EE] mask-contain mask-no-repeat transition-colors hover:bg-[#FFE492]"
+              style={`mask-image: url(${app.icon.src}); width: ${app.width}px; height: ${app.height}px;`}
+              aria-label={app.alt}
+            />
+          </li>
+        ))
+      }
+    </ul>
   </div>
 </div>
