@@ -1,5 +1,6 @@
 ---
 import PlanButton from "./ui/PlanButton.astro";
+import checkMark from "../images/icon/check-mark.svg";
 
 const pricingPlans = [
   {
@@ -72,10 +73,15 @@ const pricingPlans = [
         pricingPlans.map((plan) => (
           <li
             class:list={[
+              // レイアウト・ポジショニング
               "group relative flex cursor-pointer flex-col items-start justify-between gap-[24px]",
+              // 外観・装飾
               "rounded-[10px] bg-white px-[44px] py-[40px]",
+              // 疑似要素(before)のベーススタイル
               "before:absolute before:inset-0 before:rounded-[10px] before:border before:border-solid before:border-[#ffe492]",
+              // 選択状態のシャドウ
               "data-[selected=true]:shadow-[0px_20px_50px_0px_rgba(0,0,0,0.05)]",
+              // 選択状態の疑似要素アニメーション
               "data-[selected=true]:before:scale-y-[1.15] data-[selected=true]:before:border-[#043873] data-[selected=true]:before:bg-[#043873] data-[selected=true]:before:transition-transform data-[selected=true]:before:duration-300 data-[selected=true]:before:ease-out",
             ]}
             data-name="Plan"
@@ -103,10 +109,9 @@ const pricingPlans = [
                     class="flex items-center gap-[19px]"
                     data-name="Plan-feature"
                   >
-                    <img
-                      class="size-[18px]"
-                      src="https://placehold.co/18x18/808080/ffffff"
-                      alt="Checkmark"
+                    <div
+                      class="size-[20px] shrink-0 bg-[#212529] mask-contain mask-no-repeat group-data-[selected=true]:bg-[#ffe492]"
+                      style={`mask-image: url(${checkMark.src})`}
                     />
                     <p>{feature}</p>
                   </li>
