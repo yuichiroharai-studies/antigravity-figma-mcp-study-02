@@ -49,15 +49,15 @@ const appIcons = [
     <p class="text-[21px] tracking-[-0.02em]">On a big team? Contact sales</p>
     <ul class="flex items-start gap-[40px]">
       {
-        appIcons.map((app) => (
+        appIcons.map((icon) => (
           <li>
             <a
-              href={app.link}
+              href={icon.link}
               target="_blank"
               rel="noopener noreferrer"
-              class="block bg-[#F7F7EE] mask-contain mask-no-repeat transition-colors hover:bg-[#FFE492]"
-              style={`mask-image: url(${app.icon.src}); width: ${app.width}px; height: ${app.height}px;`}
-              aria-label={app.alt}
+              class="bg-custom-off-white hover:bg-secondary block mask-contain mask-no-repeat transition-colors"
+              style={`mask-image: url(${icon.icon.src}); width: ${icon.width}px; height: ${icon.height}px;`}
+              aria-label={icon.alt}
             />
           </li>
         ))

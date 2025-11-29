@@ -76,7 +76,7 @@ const legalLinks = [
         <Logo />
 
         <p
-          class="max-w-[240px] text-[18px] leading-[30px] tracking-[-0.02em] text-[#f7f7ee]"
+          class="text-custom-off-white max-w-[240px] text-[18px] leading-[30px] tracking-[-0.02em]"
         >
           whitepace was created for the new ways we live and work. We make a
           better workspace around the world
@@ -94,7 +94,7 @@ const legalLinks = [
                     <li>
                       <a
                         href={base + item.link}
-                        class="transition-colors hover:text-[#FFE492]"
+                        class="hover:text-secondary transition-colors"
                       >
                         {item.text}
                       </a>
@@ -111,7 +111,7 @@ const legalLinks = [
         class="col-span-3 flex flex-col items-start gap-[16px] tracking-[-0.02em]"
       >
         <h3 class="text-[28px] font-bold">Try It Today</h3>
-        <p class="text-[16px] leading-[20px] text-[#f7f7ee]">
+        <p class="text-custom-off-white text-[16px] leading-[20px]">
           Get started for free. Add your whole team as your needs grow.
         </p>
         <Button class="mt-[8px] px-[40px] py-[16px] text-[14px]">
@@ -121,18 +121,18 @@ const legalLinks = [
     </div>
 
     <div
-      class="flex w-full items-start justify-between border-t border-[#2e4b75] pt-[30px]"
+      class="border-custom-gray flex w-full items-start justify-between border-t pt-[30px]"
     >
       <div class="flex items-end gap-[40px] text-[16px] tracking-[-0.02em]">
         <button class="group flex cursor-pointer items-center gap-[8px]">
           <div
-            class="h-[19px] w-[19px] bg-white mask-contain mask-no-repeat transition-colors group-hover:bg-[#FFE492]"
+            class="group-hover:bg-secondary h-[19px] w-[19px] bg-white mask-contain mask-no-repeat transition-colors"
             style={`mask-image: url(${lang.src})`}
           >
           </div>
-          <p class="transition-colors group-hover:text-[#FFE492]">English</p>
+          <p class="group-hover:text-secondary transition-colors">English</p>
           <div
-            class="mt-[2px] h-[7px] w-[13px] bg-white mask-contain mask-no-repeat transition-colors group-hover:bg-[#FFE492]"
+            class="group-hover:bg-secondary mt-[2px] h-[7px] w-[13px] bg-white mask-contain mask-no-repeat transition-colors"
             style={`mask-image: url(${chevronDown.src})`}
           >
           </div>
@@ -144,7 +144,7 @@ const legalLinks = [
               <li>
                 <a
                   href={base + item.link}
-                  class="transition-colors hover:text-[#FFE492]"
+                  class="hover:text-secondary transition-colors"
                 >
                   {item.text}
                 </a>
@@ -163,7 +163,7 @@ const legalLinks = [
               <a
                 href={icon.link}
                 target="_blank"
-                class="block bg-[#F7F7EE] mask-contain mask-no-repeat transition-colors hover:bg-[#FFE492]"
+                class="bg-custom-off-white hover:bg-secondary block mask-contain mask-no-repeat transition-colors"
                 style={`mask-image: url(${icon.icon.src}); width: ${icon.width}px; height: ${icon.height}px;`}
                 aria-label={icon.alt}
               />

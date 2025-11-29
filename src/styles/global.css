@@ -2,6 +2,14 @@
 
 @theme {
   --font-sans: "Inter", sans-serif;
+
+  --color-primary: #043873;
+  --color-primary-light: #4f9cf9;
+  --color-secondary: #ffe492;
+
+  --color-custom-off-white: #f7f7ee;
+  --color-custom-black: #212529;
+  --color-custom-gray: #2e4b75;
 }
 
 @layer base {
@@ -10,7 +18,7 @@
   }
 
   body {
-    background-color: #043873;
-    color: #ffffff;
+    background-color: var(--color-primary);
+    color: white;
   }
 }
