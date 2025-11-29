@@ -11,7 +11,7 @@ const navItems = [
 ];
 ---
 
-<div class="w-full" data-name="Header" data-node-id="547:8800">
+<div class="w-full" data-name="Header">
   <div
     class="mx-auto flex max-w-[1440px] items-center justify-between px-[32px] py-[16px]"
   >
@@ -19,13 +19,8 @@ const navItems = [
 
     <div
       class="flex items-center gap-[64px] text-[18px] leading-[23px] font-medium tracking-[-0.02em]"
-      data-node-id="547:8810"
     >
-      <ul
-        class="flex items-start gap-[32px]"
-        data-name="Nav-menu"
-        data-node-id="547:8811"
-      >
+      <ul class="flex items-start gap-[32px]" data-name="Nav-menu">
         {
           navItems.map((item) => (
             <li>
@@ -46,23 +41,14 @@ const navItems = [
           ))
         }
       </ul>
-      <div
-        class="flex items-center gap-[24px]"
-        data-name="Btn"
-        data-node-id="547:8824"
-      >
+      <div class="flex items-center gap-[24px]" data-name="Btn">
         <button
           class="flex shrink-0 cursor-pointer items-center justify-center gap-[10px] rounded-[8px] bg-[#FFE492] px-[40px] py-[20px] text-[#043873] transition-opacity hover:opacity-80"
           data-name="Btn-login"
-          data-node-id="547:8825"
         >
           Login
         </button>
-        <Button
-          class="p-[20px] text-[18px]"
-          data-name="Btn-free-trial"
-          data-node-id="547:8827"
-        >
+        <Button class="p-[20px] text-[18px]" data-name="Btn-free-trial">
           Try Whitepace free
         </Button>
       </div>
