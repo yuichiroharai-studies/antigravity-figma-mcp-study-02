@@ -49,7 +49,7 @@ export default function Footer() {
                 </span>
                 <span>{` was created for the new ways we live and work. `}</span>
               </p>
-              <p>We make beautyfully designed around the world</p>
+              <p>We make a better workspace around the world</p>
             </div>
           </div>
           <div
@@ -165,7 +165,7 @@ export default function Footer() {
               data-node-id="547:9247"
             >
               <p
-                className="relative shrink-0 font-['Inter:Regular',sans-serif] text-[18px] leading-[30px] font-normal tracking-[-0.36px] text-nowrap whitespace-pre text-white not-italic"
+                className="relative shrink-0 font-['Inter:Medium',sans-serif] text-[18px] leading-[30px] font-medium tracking-[-0.36px] text-nowrap whitespace-pre text-white not-italic"
                 data-node-id="547:9248"
               >
                 Start today

@@ -24,7 +24,7 @@ export default function FreeTrial() {
             Try Whitepace today
           </p>
           <div
-            className="relative w-full shrink-0 font-['Inter:Regular','Noto_Sans:Regular',sans-serif] text-[18px] leading-[30px] font-normal tracking-[-0.36px]"
+            className="relative w-full shrink-0 font-['Inter:Regular',sans-serif] text-[18px] leading-[30px] font-normal tracking-[-0.36px]"
             data-node-id="547:10059"
           >
             <p className="mb-0">{`Get started for free. `}</p>
@@ -37,10 +37,10 @@ export default function FreeTrial() {
           data-node-id="547:10060"
         >
           <p
-            className="relative shrink-0 font-['Montserrat:Medium',sans-serif] text-[16px] leading-[20px] font-medium text-nowrap whitespace-pre text-white"
+            className="relative shrink-0 font-['Inter:Medium',sans-serif] text-[16px] leading-[20px] font-medium text-nowrap whitespace-pre text-white"
             data-node-id="547:10061"
           >
-            Try Taskey free
+            Try Whitepace free
           </p>
           <div
             className="relative flex shrink-0 content-stretch items-start gap-[4px]"

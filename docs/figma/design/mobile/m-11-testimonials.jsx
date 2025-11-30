@@ -37,8 +37,8 @@ export default function Testimonial() {
               className="relative w-[min-content] min-w-full shrink-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px] text-[#212529] not-italic"
               data-node-id="547:10126"
             >
-              Taskkey is designed as a collaboration tool for businesses that is
-              a full project management solution.
+              Whitepate is designed as a collaboration tool for businesses that
+              is a full project management solution.
             </p>
           </div>
           <div
@@ -57,7 +57,7 @@ export default function Testimonial() {
               data-node-id="547:10129"
             >
               <p
-                className="relative w-full shrink-0 font-['Inter:Bold',sans-serif] leading-[normal] font-bold"
+                className="relative w-full shrink-0 font-['Inter:SemiBold',sans-serif] leading-[normal] font-semibold"
                 data-node-id="547:10130"
               >
                 Oberon Shaw, MCH

@@ -42,9 +42,9 @@ export default function HeroSection() {
             data-node-id="547:9209"
           >
             <p
-              className="relative shrink-0 font-['Inter:Regular',sans-serif] text-[18px] leading-[30px] font-normal tracking-[-0.36px] text-nowrap whitespace-pre text-white not-italic"
+              className="relative shrink-0 font-['Inter:Medium',sans-serif] text-[18px] leading-[30px] font-medium tracking-[-0.36px] text-nowrap whitespace-pre text-white not-italic"
               data-node-id="547:9210"
-            >{`Try TasKey Free `}</p>
+            >{`Try Whitepace free`}</p>
             <div
               className="relative size-[10px] shrink-0"
               data-node-id="547:9211"

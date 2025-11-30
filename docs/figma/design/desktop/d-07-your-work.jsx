@@ -42,7 +42,7 @@ export default function YourWork() {
             className="relative shrink-0 font-['Inter',sans-serif] text-[18px] leading-[23px] font-medium tracking-[-0.36px] text-nowrap text-white not-italic"
             data-node-id="547:8419"
           >
-            Try Taskey
+            Try Whitepace free
           </p>
           <div
             className="relative flex shrink-0 content-stretch items-start gap-[4px]"

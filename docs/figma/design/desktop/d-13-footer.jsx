@@ -59,7 +59,7 @@ export default function Footer() {
               Product
             </p>
             <p
-              className="relative shrink-0 font-['Inter',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px] text-nowrap text-[#f7f7ee]"
+              className="relative shrink-0 font-['Inter',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px] text-nowrap text-[#ffe492]"
               data-node-id="547:8753"
             >
               Overview

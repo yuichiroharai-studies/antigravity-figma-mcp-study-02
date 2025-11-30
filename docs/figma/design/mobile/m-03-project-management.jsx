@@ -43,7 +43,7 @@ export default function WorkManagement() {
             data-node-id="547:9336"
           >
             <p
-              className="relative shrink-0 font-['Inter:Regular',sans-serif] text-[18px] leading-[30px] font-normal tracking-[-0.36px] text-nowrap whitespace-pre text-white not-italic"
+              className="relative shrink-0 font-['Inter:Medium',sans-serif] text-[18px] leading-[30px] font-medium tracking-[-0.36px] text-nowrap whitespace-pre text-white not-italic"
               data-node-id="547:9337"
             >
               Get Started
@@ -106,7 +106,7 @@ export default function WorkManagement() {
             data-node-id="547:9401"
           >
             <p
-              className="relative shrink-0 font-['Inter:Regular',sans-serif] text-[18px] leading-[30px] font-normal tracking-[-0.36px] text-nowrap whitespace-pre text-white not-italic"
+              className="relative shrink-0 font-['Inter:Medium',sans-serif] text-[18px] leading-[30px] font-medium tracking-[-0.36px] text-nowrap whitespace-pre text-white not-italic"
               data-node-id="547:9402"
             >
               Try it now

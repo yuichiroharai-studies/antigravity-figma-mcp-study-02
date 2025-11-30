@@ -29,13 +29,13 @@ export default function CustomiseItToYourNeeds() {
           data-node-id="547:10017"
         >
           <p
-            className="relative w-full shrink-0 font-['Inter:Bold','Noto_Sans:Bold',sans-serif] text-[40px] leading-[52px] font-bold not-italic"
+            className="relative w-full shrink-0 font-['Inter:Bold',sans-serif] text-[40px] leading-[52px] font-bold not-italic"
             data-node-id="547:10047"
           >
             Customise it to your needs
           </p>
           <p
-            className="relative w-full shrink-0 font-['Montserrat:Regular',sans-serif] text-[18px] leading-[23px] font-normal"
+            className="relative w-full shrink-0 font-['Inter:Regular',sans-serif] text-[18px] leading-[23px] font-normal"
             data-node-id="547:10048"
           >
             Customise the app with plugins, custom themes and multiple text
@@ -49,10 +49,10 @@ export default function CustomiseItToYourNeeds() {
           data-node-id="547:10049"
         >
           <p
-            className="relative shrink-0 font-['Montserrat:Medium',sans-serif] text-[16px] leading-[20px] font-medium text-nowrap whitespace-pre text-white"
+            className="relative shrink-0 font-['Inter:Medium',sans-serif] text-[16px] leading-[20px] font-medium text-nowrap whitespace-pre text-white"
             data-node-id="547:10050"
           >
-            Let’s Go
+            Let's Go
           </p>
           <div
             className="relative flex shrink-0 content-stretch items-start gap-[4px]"

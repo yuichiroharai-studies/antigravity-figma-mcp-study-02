@@ -1,10 +1,10 @@
 import { imgGroup214 } from "./svg-118qd";
 
-export default function CustomiseItToYourNeeds() {
+export default function Extension() {
   return (
     <div
       className="relative box-border flex size-full flex-col content-stretch items-center justify-center gap-[60px] bg-[#043873] px-[16px] py-[80px]"
-      data-name="Customise it to your needs"
+      data-name="Extension"
       data-node-id="547:9438"
     >
       <div
@@ -26,11 +26,7 @@ export default function CustomiseItToYourNeeds() {
           <p
             className="relative w-full shrink-0 font-['Inter:Regular',sans-serif] text-[18px] leading-[30px] font-normal tracking-[-0.36px]"
             data-node-id="547:9471"
-          >
-            Customise the app with plugins, custom themes and multiple text
-            editors (Rich Text or Markdown). Or create your own scripts and
-            plugins using the Extension API.
-          </p>
+          >{`Use the web clipper extension, available on Chrome and Firefox, to save web pages or take screenshots as notes. `}</p>
         </div>
         <div
           className="relative box-border flex shrink-0 content-stretch items-center justify-center gap-[10px] rounded-[8px] bg-[#4f9cf9] px-[40px] py-[20px]"
@@ -38,10 +34,10 @@ export default function CustomiseItToYourNeeds() {
           data-node-id="547:9472"
         >
           <p
-            className="relative shrink-0 font-['Inter:Regular',sans-serif] text-[18px] leading-[30px] font-normal tracking-[-0.36px] text-nowrap whitespace-pre text-white not-italic"
+            className="relative shrink-0 font-['Inter:Medium',sans-serif] text-[18px] leading-[30px] font-medium tracking-[-0.36px] text-nowrap whitespace-pre text-white not-italic"
             data-node-id="547:9473"
           >
-            Let’s Go
+            Let's Go
           </p>
           <div
             className="relative flex shrink-0 content-stretch items-start gap-[4px]"

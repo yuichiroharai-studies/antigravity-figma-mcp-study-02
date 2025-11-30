@@ -23,7 +23,7 @@ export default function Customise() {
           data-node-id="547:9006"
         >
           <p
-            className="relative w-full shrink-0 font-['Inter','Noto_Sans:Bold',sans-serif] text-[72px] leading-[normal] font-bold tracking-[-1.44px]"
+            className="relative w-full shrink-0 font-['Inter',sans-serif] text-[72px] leading-[normal] font-bold tracking-[-1.44px]"
             data-node-id="547:9036"
           >
             Customise it to your needs

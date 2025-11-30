@@ -1,6 +1,4 @@
-import { imgIcon } from "./svg-fyt11";
 import { imgSlider } from "./svg-i34wt";
-import { imgIcon as imgIcon2 } from "./svg-u8ttu";
 
 export default function Pricing() {
   return (
@@ -44,19 +42,19 @@ export default function Pricing() {
             data-node-id="547:9515"
           >
             <p
-              className="relative w-full shrink-0 font-['Montserrat:SemiBold',sans-serif] text-[24px] leading-[36px] font-semibold"
+              className="relative w-full shrink-0 font-['Inter:Semi_Bold',sans-serif] text-[24px] leading-[36px] font-semibold"
               data-node-id="547:9516"
             >
               Free
             </p>
             <p
-              className="relative w-full shrink-0 font-['Montserrat:Medium',sans-serif] text-[36px] leading-[normal] font-medium"
+              className="relative w-full shrink-0 font-['Inter:Bold',sans-serif] text-[36px] leading-[normal] font-bold"
               data-node-id="547:9517"
             >
               $0
             </p>
             <p
-              className="relative w-full shrink-0 font-['Montserrat:Regular',sans-serif] text-[16px] leading-[20px] font-normal"
+              className="relative w-full shrink-0 font-['Inter:Medium',sans-serif] text-[16px] leading-[20px] font-medium"
               data-node-id="547:9518"
             >
               Capture ideas and find them quickly
@@ -73,20 +71,12 @@ export default function Pricing() {
               data-node-id="547:9520"
             >
               <div
-                className="relative size-[18.006px] shrink-0"
-                data-name="Icon"
-                data-node-id="547:9521"
-              >
-                <div className="absolute inset-[-5.55%]">
-                  <img
-                    alt=""
-                    className="block size-full max-w-none"
-                    src={imgIcon}
-                  />
-                </div>
-              </div>
+                className="size-[18px] shrink-0 bg-[#c4defd]"
+                data-name="Placeholder"
+                data-node-id="553:10297"
+              />
               <p
-                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Montserrat:Regular',sans-serif] text-[16px] leading-[20px] font-normal text-[#212529]"
+                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal text-[#212529]"
                 data-node-id="547:9524"
               >
                 Sync unlimited devices
@@ -98,20 +88,12 @@ export default function Pricing() {
               data-node-id="547:9525"
             >
               <div
-                className="relative size-[18.006px] shrink-0"
-                data-name="Icon"
-                data-node-id="547:9526"
-              >
-                <div className="absolute inset-[-5.55%]">
-                  <img
-                    alt=""
-                    className="block size-full max-w-none"
-                    src={imgIcon}
-                  />
-                </div>
-              </div>
+                className="size-[18px] shrink-0 bg-[#c4defd]"
+                data-name="Placeholder"
+                data-node-id="553:10297"
+              />
               <p
-                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Montserrat:Regular',sans-serif] text-[16px] leading-[20px] font-normal text-[#212529]"
+                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal text-[#212529]"
                 data-node-id="547:9529"
               >
                 10 GB monthly uploads
@@ -123,20 +105,12 @@ export default function Pricing() {
               data-node-id="547:9530"
             >
               <div
-                className="relative size-[18.006px] shrink-0"
-                data-name="Icon"
-                data-node-id="547:9531"
-              >
-                <div className="absolute inset-[-5.55%]">
-                  <img
-                    alt=""
-                    className="block size-full max-w-none"
-                    src={imgIcon}
-                  />
-                </div>
-              </div>
+                className="size-[18px] shrink-0 bg-[#c4defd]"
+                data-name="Placeholder"
+                data-node-id="553:10297"
+              />
               <p
-                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Montserrat:Regular',sans-serif] text-[16px] leading-[20px] font-normal text-[#212529]"
+                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal text-[#212529]"
                 data-node-id="547:9534"
               >
                 200 MB max. note size
@@ -148,20 +122,12 @@ export default function Pricing() {
               data-node-id="547:9535"
             >
               <div
-                className="relative size-[18.006px] shrink-0"
-                data-name="Icon"
-                data-node-id="547:9536"
-              >
-                <div className="absolute inset-[-5.55%]">
-                  <img
-                    alt=""
-                    className="block size-full max-w-none"
-                    src={imgIcon}
-                  />
-                </div>
-              </div>
+                className="size-[18px] shrink-0 bg-[#c4defd]"
+                data-name="Placeholder"
+                data-node-id="553:10297"
+              />
               <p
-                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Montserrat:Regular',sans-serif] text-[16px] leading-[20px] font-normal whitespace-pre-wrap text-[#212529]"
+                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal whitespace-pre-wrap text-[#212529]"
                 data-node-id="547:9539"
               >{`Customize Home dashboard and access extra widgets`}</p>
             </div>
@@ -171,20 +137,12 @@ export default function Pricing() {
               data-node-id="547:9540"
             >
               <div
-                className="relative size-[18.006px] shrink-0"
-                data-name="Icon"
-                data-node-id="547:9541"
-              >
-                <div className="absolute inset-[-5.55%]">
-                  <img
-                    alt=""
-                    className="block size-full max-w-none"
-                    src={imgIcon}
-                  />
-                </div>
-              </div>
+                className="size-[18px] shrink-0 bg-[#c4defd]"
+                data-name="Placeholder"
+                data-node-id="553:10297"
+              />
               <p
-                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Montserrat:Regular',sans-serif] text-[16px] leading-[20px] font-normal whitespace-pre-wrap text-[#212529]"
+                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal whitespace-pre-wrap text-[#212529]"
                 data-node-id="547:9544"
               >{`Connect primary Google Calendar account`}</p>
             </div>
@@ -194,20 +152,12 @@ export default function Pricing() {
               data-node-id="547:9545"
             >
               <div
-                className="relative size-[18.006px] shrink-0"
-                data-name="Icon"
-                data-node-id="547:9546"
-              >
-                <div className="absolute inset-[-5.55%]">
-                  <img
-                    alt=""
-                    className="block size-full max-w-none"
-                    src={imgIcon}
-                  />
-                </div>
-              </div>
+                className="size-[18px] shrink-0 bg-[#c4defd]"
+                data-name="Placeholder"
+                data-node-id="553:10297"
+              />
               <p
-                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Montserrat:Regular',sans-serif] text-[16px] leading-[20px] font-normal whitespace-pre-wrap text-[#212529]"
+                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal whitespace-pre-wrap text-[#212529]"
                 data-node-id="547:9549"
               >{`Add due dates, reminders, and notifications to your tasks  `}</p>
             </div>
@@ -218,7 +168,7 @@ export default function Pricing() {
             data-node-id="547:9550"
           >
             <p
-              className="relative shrink-0 font-['Montserrat:Medium',sans-serif] text-[16px] leading-[20px] font-medium text-nowrap whitespace-pre text-white"
+              className="relative shrink-0 font-['Inter:Medium',sans-serif] text-[16px] leading-[20px] font-medium text-nowrap whitespace-pre text-white"
               data-node-id="547:9551"
             >
               Get Started
@@ -242,10 +192,10 @@ export default function Pricing() {
               Personal
             </p>
             <p
-              className="relative w-full shrink-0 font-['Inter:Bold',sans-serif] text-[36px] leading-[normal] font-bold tracking-[-0.72px]"
+              className="relative w-full shrink-0 font-['Inter:Bold',sans-serif] text-[36px] leading-[normal] font-bold tracking-[-0.72px] text-[#ffe492]"
               data-node-id="547:9555"
             >
-              $11.2
+              $11.99
             </p>
             <p
               className="relative w-full shrink-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px]"
@@ -386,19 +336,19 @@ export default function Pricing() {
             data-node-id="547:9591"
           >
             <p
-              className="relative w-full shrink-0 font-['Montserrat:SemiBold',sans-serif] text-[24px] leading-[36px] font-semibold"
+              className="relative w-full shrink-0 font-['Inter:Semi_Bold',sans-serif] text-[24px] leading-[36px] font-semibold"
               data-node-id="547:9592"
             >
-              Free
+              Organization
             </p>
             <p
-              className="relative w-full shrink-0 font-['Montserrat:Medium',sans-serif] text-[36px] leading-[normal] font-medium"
+              className="relative w-full shrink-0 font-['Inter:Medium',sans-serif] text-[36px] leading-[normal] font-medium"
               data-node-id="547:9593"
             >
-              $0
+              $49.99
             </p>
             <p
-              className="relative w-full shrink-0 font-['Montserrat:Regular',sans-serif] text-[16px] leading-[20px] font-normal"
+              className="relative w-full shrink-0 font-['Inter:Medium',sans-serif] text-[16px] leading-[20px] font-medium"
               data-node-id="547:9594"
             >
               Capture ideas and find them quickly
@@ -415,20 +365,12 @@ export default function Pricing() {
               data-node-id="547:9596"
             >
               <div
-                className="relative size-[18.006px] shrink-0"
-                data-name="Icon"
-                data-node-id="547:9597"
-              >
-                <div className="absolute inset-[-5.55%]">
-                  <img
-                    alt=""
-                    className="block size-full max-w-none"
-                    src={imgIcon2}
-                  />
-                </div>
-              </div>
+                className="size-[18px] shrink-0 bg-[#c4defd]"
+                data-name="Placeholder"
+                data-node-id="553:10297"
+              />
               <p
-                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Montserrat:Regular',sans-serif] text-[16px] leading-[20px] font-normal text-[#212529]"
+                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal text-[#212529]"
                 data-node-id="547:9600"
               >
                 Sync unlimited devices
@@ -440,20 +382,12 @@ export default function Pricing() {
               data-node-id="547:9601"
             >
               <div
-                className="relative size-[18.006px] shrink-0"
-                data-name="Icon"
-                data-node-id="547:9602"
-              >
-                <div className="absolute inset-[-5.55%]">
-                  <img
-                    alt=""
-                    className="block size-full max-w-none"
-                    src={imgIcon2}
-                  />
-                </div>
-              </div>
+                className="size-[18px] shrink-0 bg-[#c4defd]"
+                data-name="Placeholder"
+                data-node-id="553:10297"
+              />
               <p
-                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Montserrat:Regular',sans-serif] text-[16px] leading-[20px] font-normal text-[#212529]"
+                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal text-[#212529]"
                 data-node-id="547:9605"
               >
                 10 GB monthly uploads
@@ -465,20 +399,12 @@ export default function Pricing() {
               data-node-id="547:9606"
             >
               <div
-                className="relative size-[18.006px] shrink-0"
-                data-name="Icon"
-                data-node-id="547:9607"
-              >
-                <div className="absolute inset-[-5.55%]">
-                  <img
-                    alt=""
-                    className="block size-full max-w-none"
-                    src={imgIcon2}
-                  />
-                </div>
-              </div>
+                className="size-[18px] shrink-0 bg-[#c4defd]"
+                data-name="Placeholder"
+                data-node-id="553:10297"
+              />
               <p
-                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Montserrat:Regular',sans-serif] text-[16px] leading-[20px] font-normal text-[#212529]"
+                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal text-[#212529]"
                 data-node-id="547:9610"
               >
                 200 MB max. note size
@@ -490,20 +416,12 @@ export default function Pricing() {
               data-node-id="547:9611"
             >
               <div
-                className="relative size-[18.006px] shrink-0"
-                data-name="Icon"
-                data-node-id="547:9612"
-              >
-                <div className="absolute inset-[-5.55%]">
-                  <img
-                    alt=""
-                    className="block size-full max-w-none"
-                    src={imgIcon2}
-                  />
-                </div>
-              </div>
+                className="size-[18px] shrink-0 bg-[#c4defd]"
+                data-name="Placeholder"
+                data-node-id="553:10297"
+              />
               <p
-                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Montserrat:Regular',sans-serif] text-[16px] leading-[20px] font-normal whitespace-pre-wrap text-[#212529]"
+                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal whitespace-pre-wrap text-[#212529]"
                 data-node-id="547:9615"
               >{`Customize Home dashboard and access extra widgets`}</p>
             </div>
@@ -513,20 +431,12 @@ export default function Pricing() {
               data-node-id="547:9616"
             >
               <div
-                className="relative size-[18.006px] shrink-0"
-                data-name="Icon"
-                data-node-id="547:9617"
-              >
-                <div className="absolute inset-[-5.55%]">
-                  <img
-                    alt=""
-                    className="block size-full max-w-none"
-                    src={imgIcon2}
-                  />
-                </div>
-              </div>
+                className="size-[18px] shrink-0 bg-[#c4defd]"
+                data-name="Placeholder"
+                data-node-id="553:10297"
+              />
               <p
-                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Montserrat:Regular',sans-serif] text-[16px] leading-[20px] font-normal whitespace-pre-wrap text-[#212529]"
+                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal whitespace-pre-wrap text-[#212529]"
                 data-node-id="547:9620"
               >{`Connect primary Google Calendar account`}</p>
             </div>
@@ -536,20 +446,12 @@ export default function Pricing() {
               data-node-id="547:9621"
             >
               <div
-                className="relative size-[18.006px] shrink-0"
-                data-name="Icon"
-                data-node-id="547:9622"
-              >
-                <div className="absolute inset-[-5.55%]">
-                  <img
-                    alt=""
-                    className="block size-full max-w-none"
-                    src={imgIcon2}
-                  />
-                </div>
-              </div>
+                className="size-[18px] shrink-0 bg-[#c4defd]"
+                data-name="Placeholder"
+                data-node-id="553:10297"
+              />
               <p
-                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Montserrat:Regular',sans-serif] text-[16px] leading-[20px] font-normal whitespace-pre-wrap text-[#212529]"
+                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal whitespace-pre-wrap text-[#212529]"
                 data-node-id="547:9625"
               >{`Add due dates, reminders, and notifications to your tasks  `}</p>
             </div>
@@ -560,7 +462,7 @@ export default function Pricing() {
             data-node-id="547:9626"
           >
             <p
-              className="relative shrink-0 font-['Montserrat:Medium',sans-serif] text-[16px] leading-[20px] font-medium text-nowrap whitespace-pre text-white"
+              className="relative shrink-0 font-['Inter:Medium',sans-serif] text-[16px] leading-[20px] font-medium text-nowrap whitespace-pre text-white"
               data-node-id="547:9627"
             >
               Get Started
