@@ -44,7 +44,7 @@ export default function CustomiseItToYourNeeds() {
           </p>
         </div>
         <div
-          className="relative box-border flex shrink-0 content-stretch items-center justify-center gap-[10px] rounded-[6px] bg-[#4f9cf9] px-[40px] py-[20px]"
+          className="relative box-border flex shrink-0 content-stretch items-center justify-center gap-[10px] rounded-[8px] bg-[#4f9cf9] px-[40px] py-[20px]"
           data-name="Btn-get-started"
           data-node-id="547:10049"
         >

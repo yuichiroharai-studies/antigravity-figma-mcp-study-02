@@ -163,7 +163,7 @@ export default function Pricing() {
             </div>
           </div>
           <div
-            className="relative box-border flex shrink-0 content-stretch items-center justify-center rounded-[6px] bg-[#4f9cf9] px-[20px] py-[16px]"
+            className="relative box-border flex shrink-0 content-stretch items-center justify-center rounded-[8px] bg-[#4f9cf9] px-[20px] py-[16px]"
             data-name="Btn-get-started"
             data-node-id="547:9550"
           >
@@ -457,7 +457,7 @@ export default function Pricing() {
             </div>
           </div>
           <div
-            className="relative box-border flex shrink-0 content-stretch items-center justify-center rounded-[6px] bg-[#4f9cf9] px-[20px] py-[16px]"
+            className="relative box-border flex shrink-0 content-stretch items-center justify-center rounded-[8px] bg-[#4f9cf9] px-[20px] py-[16px]"
             data-name="Btn-get-started"
             data-node-id="547:9626"
           >
