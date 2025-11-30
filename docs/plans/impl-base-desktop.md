@@ -10,8 +10,8 @@
 
 以下のドキュメントに記載されているルールとガイドラインを厳守して実装を行います。
 
-- [AGENTS.md](file:///c:/Users/yuich/Documents/git/yuichiroharai-studies/antigravity-figma-mcp-study-02/AGENTS.md): エージェントの行動指針とルール
-- [docs/FIGMA.md](file:///c:/Users/yuich/Documents/git/yuichiroharai-studies/antigravity-figma-mcp-study-02/docs/FIGMA.md): Figma デザインの実装ルール（MCP ツールの使用、テキスト、画像、Web フォントなど）
+- [AGENTS.md](../../AGENTS.md): エージェントの行動指針とルール
+- [docs/FIGMA.md](../FIGMA.md): Figma デザインの実装ルール（MCP ツールの使用、テキスト、画像、Web フォントなど）
 
 ## 実装手順
 
