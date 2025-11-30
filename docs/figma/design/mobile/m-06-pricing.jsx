@@ -13,13 +13,13 @@ export default function Pricing() {
         data-node-id="547:9481"
       >
         <p
-          className="relative w-full shrink-0 font-['Inter:Bold',sans-serif] text-[36px] leading-[normal] font-bold tracking-[-0.72px]"
+          className="relative w-full shrink-0 font-['Inter',sans-serif] text-[36px] leading-[normal] font-bold tracking-[-0.72px]"
           data-node-id="547:9511"
         >
           Choose Your Plan
         </p>
         <p
-          className="relative w-full shrink-0 font-['Inter:Regular',sans-serif] text-[18px] leading-[30px] font-normal tracking-[-0.36px]"
+          className="relative w-full shrink-0 font-['Inter',sans-serif] text-[18px] leading-[30px] font-normal tracking-[-0.36px]"
           data-node-id="547:9512"
         >
           Whether you want to get organized, keep your personal life on track,
@@ -42,19 +42,19 @@ export default function Pricing() {
             data-node-id="547:9515"
           >
             <p
-              className="relative w-full shrink-0 font-['Inter:Semi_Bold',sans-serif] text-[24px] leading-[36px] font-semibold"
+              className="relative w-full shrink-0 font-['Inter',sans-serif] text-[24px] leading-[36px] font-semibold"
               data-node-id="547:9516"
             >
               Free
             </p>
             <p
-              className="relative w-full shrink-0 font-['Inter:Bold',sans-serif] text-[36px] leading-[normal] font-bold"
+              className="relative w-full shrink-0 font-['Inter',sans-serif] text-[36px] leading-[normal] font-bold"
               data-node-id="547:9517"
             >
               $0
             </p>
             <p
-              className="relative w-full shrink-0 font-['Inter:Medium',sans-serif] text-[16px] leading-[20px] font-medium"
+              className="relative w-full shrink-0 font-['Inter',sans-serif] text-[16px] leading-[20px] font-medium"
               data-node-id="547:9518"
             >
               Capture ideas and find them quickly
@@ -76,7 +76,7 @@ export default function Pricing() {
                 data-node-id="553:10297"
               />
               <p
-                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal text-[#212529]"
+                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter',sans-serif] text-[16px] leading-[20px] font-normal text-[#212529]"
                 data-node-id="547:9524"
               >
                 Sync unlimited devices
@@ -93,7 +93,7 @@ export default function Pricing() {
                 data-node-id="553:10297"
               />
               <p
-                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal text-[#212529]"
+                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter',sans-serif] text-[16px] leading-[20px] font-normal text-[#212529]"
                 data-node-id="547:9529"
               >
                 10 GB monthly uploads
@@ -110,7 +110,7 @@ export default function Pricing() {
                 data-node-id="553:10297"
               />
               <p
-                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal text-[#212529]"
+                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter',sans-serif] text-[16px] leading-[20px] font-normal text-[#212529]"
                 data-node-id="547:9534"
               >
                 200 MB max. note size
@@ -127,7 +127,7 @@ export default function Pricing() {
                 data-node-id="553:10297"
               />
               <p
-                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal whitespace-pre-wrap text-[#212529]"
+                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter',sans-serif] text-[16px] leading-[20px] font-normal whitespace-pre-wrap text-[#212529]"
                 data-node-id="547:9539"
               >{`Customize Home dashboard and access extra widgets`}</p>
             </div>
@@ -142,7 +142,7 @@ export default function Pricing() {
                 data-node-id="553:10297"
               />
               <p
-                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal whitespace-pre-wrap text-[#212529]"
+                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter',sans-serif] text-[16px] leading-[20px] font-normal whitespace-pre-wrap text-[#212529]"
                 data-node-id="547:9544"
               >{`Connect primary Google Calendar account`}</p>
             </div>
@@ -157,7 +157,7 @@ export default function Pricing() {
                 data-node-id="553:10297"
               />
               <p
-                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal whitespace-pre-wrap text-[#212529]"
+                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter',sans-serif] text-[16px] leading-[20px] font-normal whitespace-pre-wrap text-[#212529]"
                 data-node-id="547:9549"
               >{`Add due dates, reminders, and notifications to your tasks  `}</p>
             </div>
@@ -168,7 +168,7 @@ export default function Pricing() {
             data-node-id="547:9550"
           >
             <p
-              className="relative shrink-0 font-['Inter:Medium',sans-serif] text-[16px] leading-[20px] font-medium text-nowrap whitespace-pre text-white"
+              className="relative shrink-0 font-['Inter',sans-serif] text-[16px] leading-[20px] font-medium text-nowrap whitespace-pre text-white"
               data-node-id="547:9551"
             >
               Get Started
@@ -186,19 +186,19 @@ export default function Pricing() {
             data-node-id="547:9553"
           >
             <p
-              className="relative w-full shrink-0 font-['Inter:Semi_Bold',sans-serif] text-[24px] leading-[36px] font-semibold"
+              className="relative w-full shrink-0 font-['Inter',sans-serif] text-[24px] leading-[36px] font-semibold"
               data-node-id="547:9554"
             >
               Personal
             </p>
             <p
-              className="relative w-full shrink-0 font-['Inter:Bold',sans-serif] text-[36px] leading-[normal] font-bold tracking-[-0.72px] text-[#ffe492]"
+              className="relative w-full shrink-0 font-['Inter',sans-serif] text-[36px] leading-[normal] font-bold tracking-[-0.72px] text-[#ffe492]"
               data-node-id="547:9555"
             >
               $11.99
             </p>
             <p
-              className="relative w-full shrink-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px]"
+              className="relative w-full shrink-0 font-['Inter',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px]"
               data-node-id="547:9556"
             >
               Keep home and family on track
@@ -220,7 +220,7 @@ export default function Pricing() {
                 data-node-id="553:10311"
               />
               <p
-                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px] text-[#fefefe] not-italic"
+                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px] text-[#fefefe] not-italic"
                 data-node-id="547:9562"
               >
                 Sync unlimited devices
@@ -237,7 +237,7 @@ export default function Pricing() {
                 data-node-id="553:10312"
               />
               <p
-                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px] text-[#fefefe] not-italic"
+                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px] text-[#fefefe] not-italic"
                 data-node-id="547:9567"
               >
                 10 GB monthly uploads
@@ -254,7 +254,7 @@ export default function Pricing() {
                 data-node-id="553:10313"
               />
               <p
-                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px] text-[#fefefe] not-italic"
+                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px] text-[#fefefe] not-italic"
                 data-node-id="547:9572"
               >
                 200 MB max. note size
@@ -271,7 +271,7 @@ export default function Pricing() {
                 data-node-id="553:10314"
               />
               <p
-                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px] text-[#fefefe] not-italic"
+                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px] text-[#fefefe] not-italic"
                 data-node-id="547:9577"
               >
                 Customize Home dashboard and access extra widgets
@@ -288,7 +288,7 @@ export default function Pricing() {
                 data-node-id="553:10315"
               />
               <p
-                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px] text-[#fefefe] not-italic"
+                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px] text-[#fefefe] not-italic"
                 data-node-id="547:9582"
               >
                 Connect primary Google Calendar account
@@ -305,7 +305,7 @@ export default function Pricing() {
                 data-node-id="553:10316"
               />
               <p
-                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px] text-[#fefefe] not-italic"
+                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px] text-[#fefefe] not-italic"
                 data-node-id="547:9587"
               >
                 Add due dates, reminders, and notifications to your tasks
@@ -318,7 +318,7 @@ export default function Pricing() {
             data-node-id="547:9588"
           >
             <p
-              className="relative shrink-0 font-['Inter:Regular',sans-serif] text-[18px] leading-[30px] font-normal tracking-[-0.36px] text-nowrap whitespace-pre text-white not-italic"
+              className="relative shrink-0 font-['Inter',sans-serif] text-[18px] leading-[30px] font-normal tracking-[-0.36px] text-nowrap whitespace-pre text-white not-italic"
               data-node-id="547:9589"
             >
               Get Started
@@ -336,19 +336,19 @@ export default function Pricing() {
             data-node-id="547:9591"
           >
             <p
-              className="relative w-full shrink-0 font-['Inter:Semi_Bold',sans-serif] text-[24px] leading-[36px] font-semibold"
+              className="relative w-full shrink-0 font-['Inter',sans-serif] text-[24px] leading-[36px] font-semibold"
               data-node-id="547:9592"
             >
               Organization
             </p>
             <p
-              className="relative w-full shrink-0 font-['Inter:Medium',sans-serif] text-[36px] leading-[normal] font-medium"
+              className="relative w-full shrink-0 font-['Inter',sans-serif] text-[36px] leading-[normal] font-medium"
               data-node-id="547:9593"
             >
               $49.99
             </p>
             <p
-              className="relative w-full shrink-0 font-['Inter:Medium',sans-serif] text-[16px] leading-[20px] font-medium"
+              className="relative w-full shrink-0 font-['Inter',sans-serif] text-[16px] leading-[20px] font-medium"
               data-node-id="547:9594"
             >
               Capture ideas and find them quickly
@@ -370,7 +370,7 @@ export default function Pricing() {
                 data-node-id="553:10297"
               />
               <p
-                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal text-[#212529]"
+                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter',sans-serif] text-[16px] leading-[20px] font-normal text-[#212529]"
                 data-node-id="547:9600"
               >
                 Sync unlimited devices
@@ -387,7 +387,7 @@ export default function Pricing() {
                 data-node-id="553:10297"
               />
               <p
-                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal text-[#212529]"
+                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter',sans-serif] text-[16px] leading-[20px] font-normal text-[#212529]"
                 data-node-id="547:9605"
               >
                 10 GB monthly uploads
@@ -404,7 +404,7 @@ export default function Pricing() {
                 data-node-id="553:10297"
               />
               <p
-                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal text-[#212529]"
+                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter',sans-serif] text-[16px] leading-[20px] font-normal text-[#212529]"
                 data-node-id="547:9610"
               >
                 200 MB max. note size
@@ -421,7 +421,7 @@ export default function Pricing() {
                 data-node-id="553:10297"
               />
               <p
-                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal whitespace-pre-wrap text-[#212529]"
+                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter',sans-serif] text-[16px] leading-[20px] font-normal whitespace-pre-wrap text-[#212529]"
                 data-node-id="547:9615"
               >{`Customize Home dashboard and access extra widgets`}</p>
             </div>
@@ -436,7 +436,7 @@ export default function Pricing() {
                 data-node-id="553:10297"
               />
               <p
-                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal whitespace-pre-wrap text-[#212529]"
+                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter',sans-serif] text-[16px] leading-[20px] font-normal whitespace-pre-wrap text-[#212529]"
                 data-node-id="547:9620"
               >{`Connect primary Google Calendar account`}</p>
             </div>
@@ -451,7 +451,7 @@ export default function Pricing() {
                 data-node-id="553:10297"
               />
               <p
-                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal whitespace-pre-wrap text-[#212529]"
+                className="relative min-h-px min-w-px shrink-0 grow basis-0 font-['Inter',sans-serif] text-[16px] leading-[20px] font-normal whitespace-pre-wrap text-[#212529]"
                 data-node-id="547:9625"
               >{`Add due dates, reminders, and notifications to your tasks  `}</p>
             </div>
@@ -462,7 +462,7 @@ export default function Pricing() {
             data-node-id="547:9626"
           >
             <p
-              className="relative shrink-0 font-['Inter:Medium',sans-serif] text-[16px] leading-[20px] font-medium text-nowrap whitespace-pre text-white"
+              className="relative shrink-0 font-['Inter',sans-serif] text-[16px] leading-[20px] font-medium text-nowrap whitespace-pre text-white"
               data-node-id="547:9627"
             >
               Get Started

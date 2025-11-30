@@ -18,13 +18,13 @@ export default function FreeTrial() {
           data-node-id="547:10057"
         >
           <p
-            className="relative w-full shrink-0 font-['Inter:Bold',sans-serif] text-[40px] leading-[52px] font-bold"
+            className="relative w-full shrink-0 font-['Inter',sans-serif] text-[40px] leading-[52px] font-bold"
             data-node-id="547:10058"
           >
             Try Whitepace today
           </p>
           <div
-            className="relative w-full shrink-0 font-['Inter:Regular',sans-serif] text-[18px] leading-[30px] font-normal tracking-[-0.36px]"
+            className="relative w-full shrink-0 font-['Inter',sans-serif] text-[18px] leading-[30px] font-normal tracking-[-0.36px]"
             data-node-id="547:10059"
           >
             <p className="mb-0">{`Get started for free. `}</p>
@@ -37,7 +37,7 @@ export default function FreeTrial() {
           data-node-id="547:10060"
         >
           <p
-            className="relative shrink-0 font-['Inter:Medium',sans-serif] text-[16px] leading-[20px] font-medium text-nowrap whitespace-pre text-white"
+            className="relative shrink-0 font-['Inter',sans-serif] text-[16px] leading-[20px] font-medium text-nowrap whitespace-pre text-white"
             data-node-id="547:10061"
           >
             Try Whitepace free

@@ -23,7 +23,7 @@ export default function Header() {
             data-node-id="553:10309"
           />
           <p
-            className="relative mt-0 ml-[32.99px] font-['Inter:Bold',sans-serif] text-[19.644px] leading-[normal] font-bold text-nowrap whitespace-pre text-white not-italic [grid-area:1_/_1]"
+            className="relative mt-0 ml-[32.99px] font-['Inter',sans-serif] text-[19.644px] leading-[normal] font-bold text-nowrap whitespace-pre text-white not-italic [grid-area:1_/_1]"
             data-node-id="547:9994"
           >
             whitepace

@@ -18,13 +18,13 @@ export default function YourWork() {
           data-node-id="547:9634"
         >
           <p
-            className="relative w-full shrink-0 font-['Inter:Bold',sans-serif] text-[36px] leading-[normal] font-bold tracking-[-0.72px]"
+            className="relative w-full shrink-0 font-['Inter',sans-serif] text-[36px] leading-[normal] font-bold tracking-[-0.72px]"
             data-node-id="547:9664"
           >
             Your work, everywhere you are
           </p>
           <p
-            className="relative w-full shrink-0 font-['Inter:Regular',sans-serif] text-[18px] leading-[30px] font-normal tracking-[-0.36px]"
+            className="relative w-full shrink-0 font-['Inter',sans-serif] text-[18px] leading-[30px] font-normal tracking-[-0.36px]"
             data-node-id="547:9665"
           >
             Access your notes from your computer, phone or tablet by
@@ -39,7 +39,7 @@ export default function YourWork() {
           data-node-id="547:9666"
         >
           <p
-            className="relative shrink-0 font-['Inter:Medium',sans-serif] text-[18px] leading-[30px] font-medium tracking-[-0.36px] text-nowrap whitespace-pre text-white not-italic"
+            className="relative shrink-0 font-['Inter',sans-serif] text-[18px] leading-[30px] font-medium tracking-[-0.36px] text-nowrap whitespace-pre text-white not-italic"
             data-node-id="547:9667"
           >
             Try Whitepace free

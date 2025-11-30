@@ -8,7 +8,7 @@ export default function Testimonial() {
       data-node-id="547:10087"
     >
       <p
-        className="relative size-full text-center font-['Inter:Bold',sans-serif] text-[40px] leading-[52px] font-bold text-[#212529] not-italic"
+        className="relative size-full text-center font-['Inter',sans-serif] text-[40px] leading-[52px] font-bold text-[#212529] not-italic"
         data-node-id="547:10117"
       >
         What Our Clients Says
@@ -34,7 +34,7 @@ export default function Testimonial() {
               data-node-id="553:10323"
             />
             <p
-              className="relative w-[min-content] min-w-full shrink-0 font-['Inter:Regular',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px] text-[#212529] not-italic"
+              className="relative w-[min-content] min-w-full shrink-0 font-['Inter',sans-serif] text-[16px] leading-[20px] font-normal tracking-[-0.32px] text-[#212529] not-italic"
               data-node-id="547:10126"
             >
               Whitepate is designed as a collaboration tool for businesses that
@@ -57,13 +57,13 @@ export default function Testimonial() {
               data-node-id="547:10129"
             >
               <p
-                className="relative w-full shrink-0 font-['Inter:SemiBold',sans-serif] leading-[normal] font-semibold"
+                className="relative w-full shrink-0 font-['Inter',sans-serif] leading-[normal] font-semibold"
                 data-node-id="547:10130"
               >
                 Oberon Shaw, MCH
               </p>
               <p
-                className="relative w-full shrink-0 font-['Inter:Regular',sans-serif] leading-[30px] font-normal"
+                className="relative w-full shrink-0 font-['Inter',sans-serif] leading-[30px] font-normal"
                 data-node-id="547:10131"
               >
                 Head of Talent Acquisition, North America
