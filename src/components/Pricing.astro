@@ -47,16 +47,18 @@ const pricingPlans = [
 
 <div class="w-full bg-white">
   <div
-    class="mx-auto flex max-w-[1440px] flex-col gap-[100px] px-[32px] py-[140px]"
+    class="mx-auto flex max-w-[1440px] flex-col gap-[60px] px-[16px] py-[80px] md:gap-[100px] md:px-[32px] md:py-[140px]"
   >
     <div class="text-custom-black flex flex-col gap-[24px] text-center">
-      <h2 class="text-[72px] font-bold tracking-[-0.02em]">Choose Your Plan</h2>
+      <h2 class="text-[36px] font-bold tracking-[-0.02em] md:text-[72px]">
+        Choose Your Plan
+      </h2>
       <p class="text-[18px] leading-[30px] tracking-[-0.02em]">
         Whether you want to get organized, keep your personal life on track, or
         boost workplace productivity, Evernote has the right plan for you.
       </p>
     </div>
-    <ul class="flex gap-[32px]">
+    <ul class="flex flex-col gap-[32px] md:flex-row">
       {
         pricingPlans.map((plan) => (
           <li
@@ -66,7 +68,7 @@ const pricingPlans = [
               // 外観・装飾
               "rounded-[10px] bg-white px-[44px] py-[40px]",
               // 疑似要素(before)のベーススタイル
-              "before:border-secondary before:absolute before:inset-0 before:rounded-[10px] before:border before:border-solid",
+              "before:border-secondary before:absolute before:inset-0 before:rounded-[10px] before:border-4 before:border-solid",
               // 選択状態のシャドウ
               "data-[selected=true]:shadow-[0px_20px_50px_0px_rgba(0,0,0,0.05)]",
               // 選択状態の疑似要素アニメーション

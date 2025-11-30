@@ -34,13 +34,17 @@ const appIcons = [
 
 <div class="w-full">
   <div
-    class="mx-auto flex max-w-[1440px] flex-col items-center gap-[40px] px-[32px] pt-[140px] pb-[32px]"
+    class="mx-auto flex max-w-[1440px] flex-col items-start gap-[40px] px-[16px] pt-[100px] pb-[32px] md:items-center md:px-[32px] md:pt-[140px]"
   >
     <div
-      class="flex flex-col items-center gap-[24px] text-center tracking-[-0.02em]"
+      class="flex flex-col items-start gap-[24px] text-left tracking-[-0.02em] md:items-center md:text-center"
     >
-      <h2 class="w-[608px] text-[72px] font-bold">Try Whitepace today</h2>
-      <div class="w-[550px] text-[24px] leading-[32px]">
+      <h2 class="w-full text-[40px] font-bold md:w-[608px] md:text-[72px]">
+        Try Whitepace today
+      </h2>
+      <div
+        class="w-full text-[18px] leading-[30px] md:w-[550px] md:text-[24px] md:leading-[32px]"
+      >
         <p class="mb-0">Get started for free.</p>
         <p>Add your whole team as your needs grow.</p>
       </div>
@@ -57,8 +61,8 @@ const appIcons = [
               href={icon.link}
               target="_blank"
               rel="noopener noreferrer"
-              class="bg-custom-off-white hover:bg-secondary block mask-contain mask-no-repeat transition-colors"
-              style={`mask-image: url(${icon.icon.src}); width: ${icon.width}px; height: ${icon.height}px;`}
+              class="bg-custom-off-white hover:bg-secondary block h-[36px] w-[36px] mask-contain mask-no-repeat transition-colors md:h-[60px] md:w-[60px]"
+              style={`mask-image: url(${icon.icon.src});`}
               aria-label={icon.alt}
             />
           </li>

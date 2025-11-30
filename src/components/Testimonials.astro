@@ -34,12 +34,14 @@ const testimonials = [
 
 <div class="text-custom-black w-full bg-white">
   <div
-    class="mx-auto flex max-w-[1440px] flex-col items-center gap-[60px] px-[32px] py-[140px]"
+    class="mx-auto flex max-w-[1440px] flex-col items-center gap-[60px] px-[16px] py-[100px] md:px-[32px] md:py-[140px]"
   >
-    <h2 class="text-[70px] font-bold tracking-[-0.02em]">
+    <h2
+      class="text-center text-[40px] font-bold tracking-[-0.02em] md:text-[70px]"
+    >
       What Our Clients Say
     </h2>
-    <ul class="flex gap-[32px]">
+    <ul class="flex flex-col gap-[32px] md:flex-row">
       {
         testimonials.map((testimonial) => (
           <li class="flex flex-col gap-[60px] rounded-[10px] bg-white px-[24px] py-[60px] shadow-[15px_10px_50px_0px_rgba(0,0,0,0.1)]">
@@ -52,7 +54,7 @@ const testimonials = [
                 {testimonial.comment}
               </p>
             </div>
-            <div class="flex gap-[8%]">
+            <div class="flex flex-col gap-[24px] md:flex-row md:gap-[8%]">
               <div class="w-[95px] shrink-0">
                 <img
                   class="w-full rounded-[9999px]"

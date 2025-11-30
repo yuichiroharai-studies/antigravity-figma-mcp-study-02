@@ -2,6 +2,7 @@
 import Button from "./ui/Button.astro";
 import Logo from "./ui/Logo.astro";
 import chevronDown from "../images/icon/chevron-down.svg";
+import hamburger from "../images/icon/hamburger.svg";
 
 const navItems = [
   { label: "Products", href: "#products" },
@@ -13,14 +14,14 @@ const navItems = [
 
 <div class="w-full">
   <div
-    class="mx-auto flex max-w-[1440px] items-center justify-between px-[32px] py-[16px]"
+    class="mx-auto flex max-w-[1440px] items-center justify-between px-[16px] py-[16px] md:px-[32px]"
   >
     <h1>
       <Logo />
     </h1>
 
     <div
-      class="flex items-center gap-[64px] text-[18px] leading-[23px] font-medium tracking-[-0.02em]"
+      class="hidden items-center gap-[64px] text-[18px] leading-[23px] font-medium tracking-[-0.02em] md:flex"
     >
       <ul class="flex items-start gap-[32px]">
         {
@@ -47,6 +48,10 @@ const navItems = [
         </button>
         <Button class="p-[20px] text-[18px]"> Try Whitepace free </Button>
       </div>
+    </div>
+
+    <div class="md:hidden">
+      <img src={hamburger.src} alt="Menu" width="42" height="24" />
     </div>
   </div>
 </div>

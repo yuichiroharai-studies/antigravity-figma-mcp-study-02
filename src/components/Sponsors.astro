@@ -14,14 +14,16 @@ const sponsors = [
 
 <div class="w-full bg-white">
   <div
-    class="relative mx-auto flex size-full max-w-[1440px] flex-col items-center justify-center gap-[100px] px-[32px] py-[140px]"
+    class="relative mx-auto flex size-full max-w-[1440px] flex-col items-center justify-center gap-[100px] px-[16px] py-[80px] md:px-[32px] md:py-[140px]"
   >
     <h2
-      class="text-custom-black w-full text-center text-[72px] font-bold tracking-[-0.02em]"
+      class="text-custom-black w-full text-center text-[36px] font-bold tracking-[-0.02em] md:text-[72px]"
     >
       Our sponsors
     </h2>
-    <ul class="flex w-full items-center justify-between">
+    <ul
+      class="flex w-full flex-col items-center gap-[100px] md:flex-row md:justify-between"
+    >
       {
         sponsors.map((sponsor) => (
           <li>

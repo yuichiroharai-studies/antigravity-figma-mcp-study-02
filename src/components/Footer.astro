@@ -69,10 +69,14 @@ const legalLinks = [
 
 <div class="w-full">
   <div
-    class="relative mx-auto flex w-full max-w-[1440px] flex-col items-start gap-[100px] px-[32px] pt-[140px] pb-[32px]"
+    class="relative mx-auto flex w-full max-w-[1440px] flex-col items-center gap-[100px] px-[16px] pt-[140px] pb-[32px] md:items-start md:px-[32px]"
   >
-    <div class="grid w-full grid-cols-12 items-start gap-[32px]">
-      <div class="col-span-3 flex flex-col gap-[15px]">
+    <div
+      class="flex w-full flex-col items-center gap-[80px] md:grid md:grid-cols-12 md:items-start md:gap-[32px]"
+    >
+      <div
+        class="flex flex-col items-center gap-[15px] text-center md:col-span-3 md:items-start md:text-left"
+      >
         <Logo />
 
         <p
@@ -83,10 +87,12 @@ const legalLinks = [
         </p>
       </div>
 
-      <ul class="col-span-6 grid grid-cols-6 tracking-[-0.02em]">
+      <ul
+        class="flex w-full flex-col items-center gap-[80px] tracking-[-0.02em] md:col-span-6 md:grid md:grid-cols-6 md:items-start md:gap-[32px]"
+      >
         {
           footerSections.map((section) => (
-            <li class="col-span-2">
+            <li class="flex flex-col items-center text-center md:col-span-2 md:items-start md:text-left">
               <div class="flex flex-col gap-[15px]">
                 <h3 class="text-[18px] font-bold">{section.title}</h3>
                 <ul class="flex flex-col gap-[15px] text-[16px] leading-[20px]">
@@ -108,7 +114,7 @@ const legalLinks = [
       </ul>
 
       <div
-        class="col-span-3 flex flex-col items-start gap-[16px] tracking-[-0.02em]"
+        class="flex flex-col items-center gap-[16px] text-center tracking-[-0.02em] md:col-span-3 md:items-start md:text-left"
       >
         <h3 class="text-[28px] font-bold">Try It Today</h3>
         <p class="text-custom-off-white text-[16px] leading-[20px]">
@@ -121,9 +127,11 @@ const legalLinks = [
     </div>
 
     <div
-      class="border-custom-gray flex w-full items-start justify-between border-t pt-[30px]"
+      class="border-custom-gray flex w-full flex-col items-center gap-[20px] border-t pt-[30px] md:flex-row md:items-start md:justify-between"
     >
-      <div class="flex items-end gap-[40px] text-[16px] tracking-[-0.02em]">
+      <div
+        class="flex flex-col items-center gap-[20px] text-[16px] tracking-[-0.02em] md:flex-row md:items-end md:gap-[40px]"
+      >
         <button class="group flex cursor-pointer items-center gap-[8px]">
           <div
             class="group-hover:bg-secondary h-[19px] w-[19px] bg-white mask-contain mask-no-repeat transition-colors"
@@ -138,7 +146,9 @@ const legalLinks = [
           </div>
         </button>
 
-        <ul class="flex items-center gap-[30px]">
+        <ul
+          class="flex flex-col items-center gap-[20px] md:flex-row md:gap-[30px]"
+        >
           {
             legalLinks.map((item) => (
               <li>

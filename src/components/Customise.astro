@@ -4,17 +4,19 @@ import Button from "./ui/Button.astro";
 
 <div class="text-custom-black w-full bg-white">
   <div
-    class="mx-auto grid max-w-[1440px] grid-cols-12 items-center gap-[32px] px-[32px] py-[140px]"
+    class="mx-auto flex max-w-[1440px] flex-col items-center gap-[60px] px-[16px] py-[100px] md:grid md:grid-cols-12 md:gap-[32px] md:px-[32px] md:py-[140px]"
   >
-    <div class="col-span-5">
+    <div class="w-full md:col-span-5">
       <img
         class="w-full"
         src="https://placehold.co/670x500/808080/ffffff"
         alt="Customise Image"
       />
     </div>
-    <div class="col-span-6 col-start-7">
-      <h2 class="text-[72px] font-bold tracking-[-0.02em]">
+    <div
+      class="flex w-full flex-col items-center text-center md:col-span-6 md:col-start-7 md:block md:text-left"
+    >
+      <h2 class="text-[40px] font-bold tracking-[-0.02em] md:text-[72px]">
         Customise it to your needs
       </h2>
       <p class="mt-[24px] text-[18px] leading-[30px] tracking-[-0.02em]">
