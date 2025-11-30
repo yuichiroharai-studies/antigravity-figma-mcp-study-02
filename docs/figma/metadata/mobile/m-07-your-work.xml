@@ -1,0 +1,14 @@
+<frame id="547:9632" name="Your-work" x="0" y="5373.0205078125" width="320" height="766">
+  <frame id="547:9633" name="Heading" x="16" y="100" width="288" height="526">
+    <frame id="547:9634" name="Text-block" x="0" y="0" width="288" height="396">
+      <text id="547:9664" name="Your work, everywhere you are" x="0" y="0" width="288" height="132" />
+      <text id="547:9665" name="Access your notes from your computer, phone or tablet by synchronising with various services, including whitepace, Dropbox and OneDrive. The app is available on Windows, macOS, Linux, Android and iOS. A terminal app is also available!" x="0" y="156" width="288" height="240" />
+    </frame>
+    <frame id="547:9666" name="Btn-try" x="0" y="456" width="193" height="70">
+      <text id="547:9667" name="Try Taskey" x="40" y="20" width="89" height="30" />
+      <frame id="547:9668" name="Icon" x="139" y="28" width="14" height="14">
+        <frame id="547:9669" name="Group 214" x="0" y="0" width="14" height="14" />
+      </frame>
+    </frame>
+  </frame>
+</frame>

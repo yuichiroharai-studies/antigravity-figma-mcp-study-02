@@ -1,0 +1,121 @@
+<frame id="547:9480" name="Pricing" x="0" y="4127.0205078125" width="320" height="1246">
+  <frame id="547:9481" name="Heading" x="16" y="80" width="288" height="262">
+    <text id="547:9511" name="Choose Your Plan" x="0" y="0" width="288" height="88" />
+    <text id="547:9512" name="Whether you want to get organized, keep your personal life on track, or boost workplace productivity, Evernote has the right plan for you." x="0" y="112" width="288" height="150" />
+  </frame>
+  <frame id="547:9513" name="Price list" x="-384" y="402" width="1088" height="692">
+    <frame id="547:9514" name="Price-board" x="0" y="0" width="367.5" height="692">
+      <frame id="547:9515" name="Text-block-01" x="44" y="40" width="279.5" height="170">
+        <text id="547:9516" name="Free" x="0" y="0" width="279.5" height="36" />
+        <text id="547:9517" name="$0" x="0" y="61" width="279.5" height="44" />
+        <text id="547:9518" name="Capture ideas and find them quickly" x="0" y="130" width="279.5" height="40" />
+      </frame>
+      <frame id="547:9519" name="Bullet-point" x="44" y="235" width="279.5" height="340">
+        <frame id="547:9520" name="Point" x="0" y="0" width="279.5" height="20">
+          <frame id="547:9521" name="Icon" x="0" y="0.9970703125" width="18.005857467651367" height="18.005859375" />
+          <text id="547:9524" name="Sync unlimited devices" x="37.005859375" y="0" width="242.494140625" height="20" />
+        </frame>
+        <frame id="547:9525" name="Point" x="0" y="48" width="279.5" height="20">
+          <frame id="547:9526" name="Icon" x="0" y="0.9970703125" width="18.005857467651367" height="18.005859375" />
+          <text id="547:9529" name="10 GB monthly uploads" x="37.005859375" y="0" width="242.494140625" height="20" />
+        </frame>
+        <frame id="547:9530" name="Point" x="0" y="96" width="279.5" height="20">
+          <frame id="547:9531" name="Icon" x="0" y="0.9970703125" width="18.005857467651367" height="18.005859375" />
+          <text id="547:9534" name="200 MB max. note size" x="37.005859375" y="0" width="242.494140625" height="20" />
+        </frame>
+        <frame id="547:9535" name="Point" x="0" y="144" width="279.5" height="40">
+          <frame id="547:9536" name="Icon" x="0" y="10.9970703125" width="18.005857467651367" height="18.005859375" />
+          <text id="547:9539" name="Customize Home dashboard and access extra widgets" x="37.005859375" y="0" width="242.494140625" height="40" />
+        </frame>
+        <frame id="547:9540" name="Point" x="0" y="212" width="279.5" height="40">
+          <frame id="547:9541" name="Icon" x="0" y="10.9970703125" width="18.005857467651367" height="18.005859375" />
+          <text id="547:9544" name="Connect primary Google Calendar account" x="37.005859375" y="0" width="242.494140625" height="40" />
+        </frame>
+        <frame id="547:9545" name="Point" x="0" y="280" width="279.5" height="60">
+          <frame id="547:9546" name="Icon" x="0" y="20.9970703125" width="18.005857467651367" height="18.005859375" />
+          <text id="547:9549" name="Add due dates, reminders, and notifications to your tasks" x="37.005859375" y="0" width="242.494140625" height="60" />
+        </frame>
+      </frame>
+      <frame id="547:9550" name="Btn-get-started" x="44" y="600" width="134" height="52">
+        <text id="547:9551" name="Get Started" x="20" y="16" width="94" height="20" />
+      </frame>
+    </frame>
+    <frame id="547:9552" name="Price-board" x="360.5" y="0" width="367.5" height="692">
+      <frame id="547:9553" name="Text-block-01" x="44" y="40" width="279.5" height="170">
+        <text id="547:9554" name="Personal" x="0" y="0" width="279.5" height="36" />
+        <text id="547:9555" name="$11.99" x="0" y="61" width="279.5" height="44" />
+        <text id="547:9556" name="Keep home and family on track" x="0" y="130" width="279.5" height="40" />
+      </frame>
+      <frame id="547:9557" name="Bullet-point" x="44" y="235" width="279.5" height="340">
+        <frame id="547:9558" name="Point" x="0" y="0" width="279.5" height="20">
+          <frame id="547:9559" name="Icon" x="0" y="0.9970703125" width="18.005857467651367" height="18.005859375" />
+          <text id="547:9562" name="Sync unlimited devices" x="37.005859375" y="0" width="242.494140625" height="20" />
+        </frame>
+        <frame id="547:9563" name="Point" x="0" y="48" width="279.5" height="20">
+          <frame id="547:9564" name="Icon" x="0" y="0.9970703125" width="18.005857467651367" height="18.005859375" />
+          <text id="547:9567" name="10 GB monthly uploads" x="37.005859375" y="0" width="242.494140625" height="20" />
+        </frame>
+        <frame id="547:9568" name="Point" x="0" y="96" width="279.5" height="20">
+          <frame id="547:9569" name="Icon" x="0" y="0.9970703125" width="18.005857467651367" height="18.005859375" />
+          <text id="547:9572" name="200 MB max. note size" x="37.005859375" y="0" width="242.494140625" height="20" />
+        </frame>
+        <frame id="547:9573" name="Point" x="0" y="144" width="279.5" height="40">
+          <frame id="547:9574" name="Icon" x="0" y="10.9970703125" width="18.005857467651367" height="18.005859375" />
+          <text id="547:9577" name="Customize Home dashboard and access extra widgets" x="37.005859375" y="0" width="242.494140625" height="40" />
+        </frame>
+        <frame id="547:9578" name="Point" x="0" y="212" width="279.5" height="40">
+          <frame id="547:9579" name="Icon" x="0" y="10.9970703125" width="18.005857467651367" height="18.005859375" />
+          <text id="547:9582" name="Connect primary Google Calendar account" x="37.005859375" y="0" width="242.494140625" height="40" />
+        </frame>
+        <frame id="547:9583" name="Point" x="0" y="280" width="279.5" height="60">
+          <frame id="547:9584" name="Icon" x="0" y="20.9970703125" width="18.005857467651367" height="18.005859375" />
+          <text id="547:9587" name="Add due dates, reminders, and notifications to your tasks" x="37.005859375" y="0" width="242.494140625" height="60" />
+        </frame>
+      </frame>
+      <frame id="547:9588" name="Btn-get-started" x="44" y="600" width="134" height="52">
+        <text id="547:9589" name="Get Started" x="20" y="16" width="94" height="20" />
+      </frame>
+    </frame>
+    <frame id="547:9590" name="Price-board" x="720.5" y="0" width="367.5" height="692">
+      <frame id="547:9591" name="Text-block-01" x="44" y="40" width="279.5" height="170">
+        <text id="547:9592" name="Organization" x="0" y="0" width="279.5" height="36" />
+        <text id="547:9593" name="$49.99" x="0" y="61" width="279.5" height="44" />
+        <text id="547:9594" name="Capture ideas and find them quickly" x="0" y="130" width="279.5" height="40" />
+      </frame>
+      <frame id="547:9595" name="Bullet-point" x="44" y="235" width="279.5" height="340">
+        <frame id="547:9596" name="Point" x="0" y="0" width="279.5" height="20">
+          <frame id="547:9597" name="Icon" x="0" y="0.9970703125" width="18.005857467651367" height="18.005859375" />
+          <text id="547:9600" name="Sync unlimited devices" x="37.005859375" y="0" width="242.494140625" height="20" />
+        </frame>
+        <frame id="547:9601" name="Point" x="0" y="48" width="279.5" height="20">
+          <frame id="547:9602" name="Icon" x="0" y="0.9970703125" width="18.005857467651367" height="18.005859375" />
+          <text id="547:9605" name="10 GB monthly uploads" x="37.005859375" y="0" width="242.494140625" height="20" />
+        </frame>
+        <frame id="547:9606" name="Point" x="0" y="96" width="279.5" height="20">
+          <frame id="547:9607" name="Icon" x="0" y="0.9970703125" width="18.005857467651367" height="18.005859375" />
+          <text id="547:9610" name="200 MB max. note size" x="37.005859375" y="0" width="242.494140625" height="20" />
+        </frame>
+        <frame id="547:9611" name="Point" x="0" y="144" width="279.5" height="40">
+          <frame id="547:9612" name="Icon" x="0" y="10.9970703125" width="18.005857467651367" height="18.005859375" />
+          <text id="547:9615" name="Customize Home dashboard and access extra widgets" x="37.005859375" y="0" width="242.494140625" height="40" />
+        </frame>
+        <frame id="547:9616" name="Point" x="0" y="212" width="279.5" height="40">
+          <frame id="547:9617" name="Icon" x="0" y="10.9970703125" width="18.005857467651367" height="18.005859375" />
+          <text id="547:9620" name="Connect primary Google Calendar account" x="37.005859375" y="0" width="242.494140625" height="40" />
+        </frame>
+        <frame id="547:9621" name="Point" x="0" y="280" width="279.5" height="60">
+          <frame id="547:9622" name="Icon" x="0" y="20.9970703125" width="18.005857467651367" height="18.005859375" />
+          <text id="547:9625" name="Add due dates, reminders, and notifications to your tasks" x="37.005859375" y="0" width="242.494140625" height="60" />
+        </frame>
+      </frame>
+      <frame id="547:9626" name="Btn-get-started" x="44" y="600" width="134" height="52">
+        <text id="547:9627" name="Get Started" x="20" y="16" width="94" height="20" />
+      </frame>
+    </frame>
+  </frame>
+  <frame id="547:9628" name="Slider" x="130" y="1154" width="60" height="12">
+    <ellipse id="547:9629" name="Ellipse 42" x="0" y="0" width="12" height="12" />
+    <ellipse id="547:9630" name="Ellipse 43" x="24" y="0" width="12" height="12" />
+    <ellipse id="547:9631" name="Ellipse 44" x="48" y="0" width="12" height="12" />
+  </frame>
+</frame>

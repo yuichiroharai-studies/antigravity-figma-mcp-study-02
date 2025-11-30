@@ -1,0 +1,27 @@
+<frame id="547:9985" name="Header" x="0" y="0" width="320" height="56">
+  <frame id="547:9986" name="Logo" x="16" y="16" width="134" height="24">
+    <frame id="547:9987" name="Logo" x="0.006591796875" y="0" width="133.98681640625" height="24">
+      <frame id="553:10309" name="Placeholder" x="0.006622314453125" y="2" width="26" height="20" />
+      <text id="547:9994" name="whitepace" x="32.99339294433594" y="0" width="101" height="24" />
+    </frame>
+  </frame>
+  <frame id="547:9995" name="Btn" x="262" y="16" width="42" height="24">
+    <frame id="547:9996" name="Btn-login" x="0" y="0" width="120" height="56" hidden="true">
+      <frame id="547:9997" name="Icon" x="20" y="21.076923370361328" width="12" height="13.84615421295166">
+        <frame id="547:9998" name="Group 209" x="0" y="0" width="12" height="13.84615421295166" />
+      </frame>
+      <text id="547:10002" name="Login" x="42" y="14.15384578704834" width="58" height="27.69230842590332" />
+    </frame>
+    <frame id="547:10003" name="Btn-free-trial" x="0" y="0" width="215" height="25.309141159057617" hidden="true">
+      <text id="547:10004" name="Try Taskey free" x="29" y="1.1545705795288086" width="137" height="23" />
+      <frame id="547:10005" name="Icon" x="176" y="7.654570579528809" width="10" height="10">
+        <frame id="547:10006" name="Group 212" x="0" y="0" width="10" height="10" />
+      </frame>
+    </frame>
+    <frame id="547:10009" name="Hum-menu" x="0" y="0" width="42" height="24">
+      <line id="547:10010" name="Line 7" x="0" y="0" width="42" height="0" />
+      <line id="547:10011" name="Line 8" x="0" y="12" width="42" height="0" />
+      <line id="547:10012" name="Line 9" x="0" y="24" width="42" height="0" />
+    </frame>
+  </frame>
+</frame>

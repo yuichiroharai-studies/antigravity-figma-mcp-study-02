@@ -1,0 +1,23 @@
+<frame id="547:10087" name="Testimonial" x="0" y="8710.517578125" width="320" height="894">
+  <text id="547:10117" name="What Our Clients Says" x="16" y="100" width="288" height="104" />
+  <frame id="547:10118" name="Content" x="16" y="264" width="288" height="458">
+    <frame id="547:10119" name="Client" x="0" y="0" width="288" height="458">
+      <frame id="547:10120" name="Comment" x="20" y="20" width="248" height="192">
+        <frame id="553:10323" name="Placeholder" x="0" y="0" width="56" height="40" />
+        <text id="547:10126" name="Taskkey is designed as a collaboration tool for businesses that is a full project management solution." x="0" y="72" width="248" height="80" />
+      </frame>
+      <frame id="547:10127" name="Name-box" x="20" y="252" width="248" height="186">
+        <frame id="553:10324" name="Placeholder" x="0" y="0" width="65" height="65" />
+        <frame id="547:10129" name="Name" x="0" y="89" width="248" height="97">
+          <text id="547:10130" name="Oberon Shaw, MCH" x="0" y="0" width="248" height="22" />
+          <text id="547:10131" name="Head of Talent Acquisition, North America" x="0" y="37" width="248" height="60" />
+        </frame>
+      </frame>
+    </frame>
+  </frame>
+  <frame id="547:10132" name="Slider" x="130" y="782" width="60" height="12">
+    <ellipse id="547:10133" name="Ellipse 42" x="0" y="0" width="12" height="12" />
+    <ellipse id="547:10134" name="Ellipse 43" x="24" y="0" width="12" height="12" />
+    <ellipse id="547:10135" name="Ellipse 44" x="48" y="0" width="12" height="12" />
+  </frame>
+</frame>

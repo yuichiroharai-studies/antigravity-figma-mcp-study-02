@@ -1,0 +1,15 @@
+<frame id="547:9830" name="Apps" x="0" y="7782.76025390625" width="320" height="928">
+  <frame id="553:10322" name="Placeholder" x="16.5" y="80" width="287" height="232" />
+  <frame id="547:9975" name="Heading" x="16" y="412" width="288" height="436">
+    <frame id="547:9976" name="Text-block" x="0" y="0" width="288" height="306">
+      <text id="547:9977" name="Work with Your Favorite Apps Using whitepace" x="0" y="0" width="288" height="132" />
+      <text id="547:9978" name="Whitepace teams up with your favorite software. Integrate with over 1000+ apps with Zapier to have all the tools you need for your project success." x="0" y="156" width="288" height="150" />
+    </frame>
+    <frame id="547:9979" name="Btn-try" x="47.5" y="366" width="193" height="70">
+      <text id="547:9980" name="Read more" x="40" y="20" width="89" height="30" />
+      <frame id="547:9981" name="Icon" x="139" y="28" width="14" height="14">
+        <frame id="547:9982" name="Group 214" x="0" y="0" width="14" height="14" />
+      </frame>
+    </frame>
+  </frame>
+</frame>

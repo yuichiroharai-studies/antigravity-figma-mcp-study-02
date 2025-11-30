@@ -1,0 +1,17 @@
+<frame id="547:9136" name="Hero-section" x="0" y="56" width="320" height="813">
+  <frame id="547:9137" name="Heading / Image" x="16" y="80" width="288" height="653">
+    <frame id="547:9138" name="Heading" x="0" y="0" width="288" height="362">
+      <frame id="547:9139" name="Text-block" x="0" y="0" width="288" height="232">
+        <text id="547:9207" name="Get More Done with whitepace" x="0" y="0" width="288" height="88" />
+        <text id="547:9208" name="Project management software that enables your teams to collaborate, plan, analyze and manage everyday tasks" x="0" y="112" width="288" height="120" />
+      </frame>
+      <frame id="547:9209" name="Btn-free-trial" x="28" y="292" width="232" height="70">
+        <text id="547:9210" name="Try TasKey Free" x="40" y="20" width="132" height="30" />
+        <frame id="547:9211" name="Group 212" x="182" y="30" width="10" height="10" />
+      </frame>
+    </frame>
+    <frame id="547:9214" name="Image-container" x="1" y="462" width="286" height="191">
+      <frame id="547:9215" name="Asset 1 2" x="0" y="0" width="286" height="191" />
+    </frame>
+  </frame>
+</frame>

@@ -1,0 +1,20 @@
+<frame id="547:10055" name="Free Trial" x="0" y="9604.5390625" width="320" height="596">
+  <frame id="547:10056" name="Heading" x="16" y="100" width="288" height="464">
+    <frame id="547:10057" name="Text-block" x="0" y="0" width="288" height="218">
+      <text id="547:10058" name="Try Whitepace today" x="0" y="0" width="288" height="104" />
+      <text id="547:10059" name="Get started for free. Add your whole team as your needs grow." x="0" y="128" width="288" height="90" />
+    </frame>
+    <frame id="547:10060" name="Btn-try" x="0" y="258" width="225" height="60">
+      <text id="547:10061" name="Try Taskey free" x="40" y="20" width="121" height="20" />
+      <frame id="547:10062" name="Icon" x="171" y="23" width="14" height="14">
+        <frame id="547:10063" name="Group 214" x="0" y="0" width="14" height="14" />
+      </frame>
+    </frame>
+    <text id="547:10066" name="On a big team? Contact sales" x="0" y="358" width="288" height="30" />
+    <frame id="547:10067" name="App-icon" x="0" y="428" width="185" height="36">
+      <frame id="553:10325" name="Placeholder" x="0" y="0" width="35" height="36" />
+      <frame id="553:10326" name="Placeholder" x="75" y="0" width="35" height="36" />
+      <frame id="553:10327" name="Placeholder" x="150" y="0" width="35" height="36" />
+    </frame>
+  </frame>
+</frame>

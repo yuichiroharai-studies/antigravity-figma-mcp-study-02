@@ -1,0 +1,17 @@
+<frame id="547:10013" name="Customise it to your needs" x="0" y="3266.3974609375" width="320" height="860.623046875">
+  <frame id="547:10014" name="Image container" x="16" y="100" width="288" height="214.62301635742188">
+    <frame id="547:10015" name="Image" x="0" y="0" width="288" height="214.62301635742188" />
+  </frame>
+  <frame id="547:10016" name="Heading" x="16" y="374.6230163574219" width="288" height="386">
+    <frame id="547:10017" name="Text-block" x="0" y="0" width="288" height="266">
+      <text id="547:10047" name="Customise it to your needs" x="0" y="0" width="288" height="104" />
+      <text id="547:10048" name="Customise the app with plugins, custom themes and multiple text editors (Rich Text or Markdown). Or create your own scripts and plugins using the Extension API." x="0" y="128" width="288" height="138" />
+    </frame>
+    <frame id="547:10049" name="Btn-get-started" x="60" y="326" width="168" height="60">
+      <text id="547:10050" name="Let's Go" x="40" y="20" width="64" height="20" />
+      <frame id="547:10051" name="Icon" x="114" y="23" width="14" height="14">
+        <frame id="547:10052" name="Group 214" x="0" y="0" width="14" height="14" />
+      </frame>
+    </frame>
+  </frame>
+</frame>

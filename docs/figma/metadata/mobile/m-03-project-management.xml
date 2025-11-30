@@ -1,0 +1,32 @@
+<frame id="547:9277" name="Work-management" x="0" y="869" width="318" height="1587">
+  <frame id="547:9278" name="Content" x="16" y="80" width="286" height="659">
+    <frame id="547:9279" name="Headline" x="0" y="0" width="286" height="422">
+      <frame id="547:9280" name="Text-block" x="0" y="0" width="286" height="292">
+        <text id="547:9334" name="Project Management" x="0" y="0" width="286" height="88" />
+        <text id="547:9335" name="Images, videos, PDFs and audio files are supported. Create math expressions and diagrams directly from the app. Take photos with the mobile app and save them to a note." x="0" y="112" width="286" height="180" />
+      </frame>
+      <frame id="547:9336" name="Btn-get-started" x="43" y="352" width="200" height="70">
+        <text id="547:9337" name="Get Started" x="40" y="20" width="96" height="30" />
+        <frame id="547:9338" name="Icon" x="146" y="28" width="14" height="14">
+          <frame id="547:9339" name="Group 214" x="0" y="0" width="14" height="14" />
+        </frame>
+      </frame>
+    </frame>
+    <frame id="547:9342" name="Image-container" x="0" y="482" width="286" height="177" />
+  </frame>
+  <frame id="547:9343" name="Content" x="16" y="839" width="286" height="668">
+    <frame id="547:9344" name="Headline" x="0" y="0" width="286" height="348">
+      <frame id="547:9345" name="Text-block" x="0" y="0" width="286" height="218">
+        <text id="547:9399" name="Work together" x="0" y="0" width="286" height="44" />
+        <text id="547:9400" name="With whitepace, share your notes with your colleagues and collaborate on them. You can also publish a note to the internet and share the URL with others." x="0" y="68" width="286" height="150" />
+      </frame>
+      <frame id="547:9401" name="Btn-get-started" x="50.5" y="278" width="185" height="70">
+        <text id="547:9402" name="Try it now" x="40" y="20" width="81" height="30" />
+        <frame id="547:9403" name="Icon" x="131" y="28" width="14" height="14">
+          <frame id="547:9404" name="Group 214" x="0" y="0" width="14" height="14" />
+        </frame>
+      </frame>
+    </frame>
+    <frame id="553:10310" name="Placeholder" x="3.5" y="408" width="279" height="260" />
+  </frame>
+</frame>
