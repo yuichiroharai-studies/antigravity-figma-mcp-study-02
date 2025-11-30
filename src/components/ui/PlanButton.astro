@@ -8,12 +8,13 @@ const { class: className, ...rest } = Astro.props;
 
 <button
   class:list={[
-    "flex cursor-pointer items-center justify-center gap-[10px] rounded-[8px] border tracking-[-0.02em] transition-opacity hover:opacity-70",
+    "flex cursor-pointer items-center justify-center gap-[10px] rounded-[8px] border tracking-[-0.02em] transition-all hover:opacity-70",
     "px-[40px] py-[16px] text-[16px]",
     "pointer-events-none",
-    "group-data-[selected=true]:pointer-events-auto group-data-[selected=true]:opacity-100",
+    "group-data-[selected=true]:pointer-events-auto",
     "border-secondary text-custom-black bg-white",
     "group-data-[selected=true]:border-primary-light group-data-[selected=true]:bg-primary-light group-data-[selected=true]:text-white",
+    "group-hover:border-primary-light group-hover:bg-primary-light group-hover:text-white",
     className,
   ]}
   {...rest}
