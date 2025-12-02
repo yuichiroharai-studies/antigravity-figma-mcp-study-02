@@ -288,6 +288,8 @@ https://yuichiroharai-studies.github.io/antigravity-figma-mcp-study-02/0.2.3/
 
 ### v0.3.0
 
+https://yuichiroharai-studies.github.io/antigravity-figma-mcp-study-02/0.3.0/
+
 #### 作業内容
 
 - モバイル版の実装計画を事前に作成
@@ -306,3 +308,24 @@ https://yuichiroharai-studies.github.io/antigravity-figma-mcp-study-02/0.2.3/
 - スライダーを使うセクション(2箇所)
   - 構造自体はデスクトップ版のままで、スタイルだけがモバイル版になっている
   - スライダー機能を追加するだけで完成できそう
+
+### v0.3.1
+
+https://yuichiroharai-studies.github.io/antigravity-figma-mcp-study-02/0.3.1/
+
+#### 作業内容
+
+ヘッダーのレイアウト調整
+
+- タブレット～ラップトップ
+  - ナビゲーションを非表示
+  - ハンバーガーボタンを表示
+
+#### 考察
+
+Tailwind CSSのブレイクポイントをそのまま使っている。
+
+- モバイル: `md`(768px)未満
+- タブレット: `md`(768px)以上～`lg`(1024px)未満
+- ラップトップ: `lg`(1024px)以上～`xl`(1280px)未満
+- デスクトップ: `xl`(1280px)以上
